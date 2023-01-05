@@ -46,3 +46,5 @@ File Descriptions
 │   vectorizer_v1.sav (serialized CountVectorizer for vectorizing instances of RFA_MODEL v1)
 
 │   word_cloud.ipynb (word cloud generated from the dataset_after_transformation.csv from all instances and by class)
+
+Model will be used for our Web App https://math-app.azurewebsites.net
