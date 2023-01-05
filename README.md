@@ -25,4 +25,3 @@ File Descriptions
 │   vectorizer.sav
 │   vectorizer_v1.sav
 │   word_cloud.ipynb
-│
