@@ -1,0 +1,1064 @@
+,question,label
+0,It is the sum of the terms of a sequence.,series_and_sequence
+1,"Find the sum of the first ten terms of the arithmetic sequence 4,10,16",series_and_sequence
+2,"Find the sum of the first 25 terms of the arithmetic sequence 17, 22, 27,32, …",series_and_sequence
+3,The sum of the first 10 terms of an arithmetic sequence is 530. What is the first term if the last term is 80 and the common difference is 2.,series_and_sequence
+4,The third term of an arithmetic sequence is −12 and the seventh term is 8. What is the sum of the first 10 terms?,series_and_sequence
+5,Find the sum of the first 50 terms of the arithmetic sequence if the first term is 21 and the twentieth term is 154.,series_and_sequence
+6,Find the sum of the first eighteen terms of the arithmetic sequence whose nth term is ,series_and_sequence
+7,"The first term of an arithmetic sequence is 5, the last term is 45 and the sum is 275. Find the number of terms.",series_and_sequence
+8,"If the first n terms of the arithmetic sequence 20, 18, 16, are added, how many of these terms will be added to get a sum of -100?",series_and_sequence
+9,"A yaya receives a starting annual salary of Php 36,000.00 with a yearly increase of Php 3,000.00. What is her total income for 8 years?",series_and_sequence
+10,"Jane was saving for a pair of shoes. From her weekly allowance, she was able to save Php 10.00 on the first  week,  Php  13.00  on the  second, Php 16.00 on the third week, and so on. If she continued saving in this pattern and made 52 deposits, how much did Jane save?",series_and_sequence
+11,"Mary gets a starting monthly salary of Php 6,000.00 and an increase of Php 600.00 annually. How much income did she receive for the first three years?",series_and_sequence
+12,"Mirasol saved Php10.00 on the first day of January, Php12.00 on the second day, Php14.00 on the third day, and so on, up to the last day of the month. How much did Mirasol save at the end of January?",series_and_sequence
+13,"Mrs. De la Cruz started her business with an income of Php 125,000.00 for the first year and an increase of Php 5,000.00 yearly. How much is the total income of Mrs. De la Cruz for 8 years since she started her business?",series_and_sequence
+14,"A hall has 30 rows. Each successive row contains one additional seat. If the first row has 25 seats, how many seats are in the hall?",series_and_sequence
+15,Find the sum of the first 20 natural numbers.,series_and_sequence
+16,"Find the sum of all the terms of the sequence: 5, 10, 15, 20, …, 50.",series_and_sequence
+17,"Find the sum −5, −2 , 1, 4,…, 31",series_and_sequence
+18,"Find the sum of the first 16 terms of the arithmetic sequence: 8, 11, 14, 17, 20, …",series_and_sequence
+19,"If the first n terms of the sequence: 9, 12, 15, 18, … are added, how many terms give a sum of 126?",series_and_sequence
+20,"Find the sum of the integers between 1 and 70, and are divisible by 3.",series_and_sequence
+21,"The sum of the first 15 terms of an arithmetic sequence is 765. If the first term is 23, what is the common difference?",series_and_sequence
+22,Find the sum of: The first 9 terms of 5 + 8 + 11 + …,series_and_sequence
+23,Find the sum of: The first 30 terms of 1 + 3 + 5 + …,series_and_sequence
+24,Find the sum of: The first 14 terms of 6 + 9 + 12 + …,series_and_sequence
+25,Find the sum of: The first 25 terms of 5 + 8 + 11 + …,series_and_sequence
+26,Find the sum of: The first 15 terms of -12 + (-6) + 0 + …,series_and_sequence
+27," $S_n = -80$ $a_1 = 10$ $a_n = -26$ ,n = ?",series_and_sequence
+28," $S_n  = 50$ $a_1 = 4$ $a_n = 16$ ,n = ?",series_and_sequence
+29," $S_n = -15$ $a_1 = 12$ , d = -3, n =  ?",series_and_sequence
+30," $S_n = 180$ $a_1 = 5$ ,d = 5,n = ?",series_and_sequence
+31,"Find the sum of the first 13 terms of the sequence: −3, −1, 1, 3, …",series_and_sequence
+32,"Find the sum of the first 15 terms of the arithmetic sequence: 10, 15, 20, 25, … ?",series_and_sequence
+33,"Find the sum of the first 11 terms of the arithmetic sequence: −4, 3, 10, 17, … ?",series_and_sequence
+34,"Find the sum of the first 19 terms of the arithmetic sequence: 9, 14, 19, 24, … ?",series_and_sequence
+35,Find the sum of the integers from 8 and 35,series_and_sequence
+36,Find the sum of all even integers from 10 to 70.,series_and_sequence
+37,Find the sum of all odd integers from 1 to 50.,series_and_sequence
+38,Find the sum of the integers from 20 to 130 and are divisible by 5.,series_and_sequence
+39,"If the sum of the first 8 terms of an arithmetic sequence is 172 and its common difference is 3, what is the first term?",series_and_sequence
+40,"If the sum of the first 9 terms of an arithmetic sequence is 216 and its first term is 4, what is the common difference?",series_and_sequence
+41,Suppose a cinema has 42 rows of seats and there are 20 seats in the first row. Each row after the first row has two more seats that the row that it precedes. How many seats are in the cinema?,series_and_sequence
+42,"A 25-layer of logs is being piled to be used on a construction. The uppermost layer is composed of 25 logs, the second upper layer contains 27 logs, and the third upper layer contains 29 logs, and so on. If the pattern continues up to the lowest layer, what is the total number of logs piled for construction?",series_and_sequence
+43,Which of the following is a formula for arithmetic series? ,series_and_sequence
+44,"Find the sum of the first 12 terms of the arithmetic sequence 4, 11, 18, …",series_and_sequence
+45,"Find the sum of the first 15 terms of the arithmetic sequence 17, 12, 7, 2, …",series_and_sequence
+46,The sum of the first 12 terms of an arithmetic sequence is 606. What is the first term if the last term is 67 and the common difference is 3.,series_and_sequence
+47,The second term of an arithmetic sequence is −16 and the eighth term is 8. What is the sum of the first 10 terms?,series_and_sequence
+48,Find the sum of the first 40 terms of the arithmetic sequence if the first term is 16 and the tenth term is 70.,series_and_sequence
+49,Find the sum of the first 15th terms of the arithmetic sequence whose nth term is $a_n = 5 + 3n$.,series_and_sequence
+50,"The first term of an arithmetic sequence is 8, the last term is 56 and the sum is 416. Find the number of terms.",series_and_sequence
+51,"If the first n terms of the arithmetic sequence 24, 20, 16, are added, how many of these terms will be added to get a sum of −60?",series_and_sequence
+52,"A yaya receives a starting annual salary of Php 60,000.00 with a yearly increase of Php 3,600.00. What is her total income for 5 years?",series_and_sequence
+53,"Jane was saving for a pair of shoes. From her weekly allowance, she was able to save Php  5.00  on  the  first  week,  Php  9.00  on  the  second, Php 13.00 on the third week, and so on. If she continued saving in this pattern and made 43 deposits, how much did Jane save?",series_and_sequence
+54,"Mary gets a starting monthly salary of Php 8,000.00 and an increase of Php 800.00 annually. How much income did she receive for the first four years?",series_and_sequence
+55,"Mirasol saved Php 8.00 on the first day of January, Php 11.00 on the second day, Php 14.00 on the third day, and so on, up to the last day of the month. How much did Mirasol save at the end of January?",series_and_sequence
+56,"Mrs. De la Cruz started her business with an income of Php 250,000.00 for the first year and an increase of Php 6,000.00 yearly. How much is the total income of Mrs. De la Cruz for 6 years since she started her business?",series_and_sequence
+57,"A hall has 35 rows. Each successive row contains two additional seats. If the first row has 20 seats, how many seats are in the hall?",series_and_sequence
+58,Which of the following does not show a sequence?,series_and_sequence
+59,Which of the following is a finite sequence?,series_and_sequence
+60,"What is the 9th term in the sequence −1,4,−9,16,−25,..?",series_and_sequence
+61,Find the first four terms of the sequence  $a_n = 5n-1$ ,series_and_sequence
+62,What is the 20th term of the sequence  $a_n+\frac{(-1)^n}{n^2}$ ?,series_and_sequence
+63,"What rule will correctly describe the sequence 2,5,10,17,26,37,\ldots?",series_and_sequence
+64,"Find the nth term of the sequence  $-\frac{1}{2}$ $\frac{1}{4}$ $-\frac{1}{6}$ $\frac{1}{8}$ $-\frac{1}{10}$ ,",series_and_sequence
+65,"What are the next four terms of the sequence 2,3,5,8, ?",series_and_sequence
+66,"Consider the figures below, what is the nth term of the sequence?",series_and_sequence
+67,"Which numerical pattern follows the rule “subtract 2, then multiply by 3”,when starting with 5?",series_and_sequence
+68,"Which is the next ordered pair in the pattern  (1,6) , (3,18) , (5,30) ",series_and_sequence
+69,"In the sequence,  $a_n = \frac{(-1)^{n+1}(n-1)(n+2)}{n}$ , what is  $a_5$ ?",series_and_sequence
+70,"What is the rule for this pattern? 1st term:32, 2nd term:36, 3rd term:40",series_and_sequence
+71,Which of the following patterns show infinite sequence?,series_and_sequence
+72,"Madison has the number pattern  $\left\{5,3,8,6,11\right\}$  for a  homework problem. She says that the number pattern adds 5 to the first number and then subtracts 2 to get the next number. Did Madison correctly describe the pattern?",series_and_sequence
+73,Which of the following shows a pattern?,series_and_sequence
+74,Which of the following defines infinite sequence?,series_and_sequence
+75,"What are the next three terms of the sequence 1,11,22,34, ?",series_and_sequence
+76,What is the 25th term of the sequence  $a_n = \frac{(-1)^n}{n^2}$ ?,series_and_sequence
+77,"What is the 11th term in the sequence −1,4,−9,16,−25,..?",series_and_sequence
+78,Find the first four terms of the sequence  $a_n = 3n+2$ .,series_and_sequence
+79,"Which numerical pattern follows the rule “subtract 2, then multiply by 3”,when starting with 5?",series_and_sequence
+80,"What rule will correctly describe the sequence: 2,6,12,20,30,\dots",series_and_sequence
+81,"Find the nth term of the sequence  $-\frac{1}{2}$ $\frac{1}{4}$ $-\frac{1}{6}$ $\frac{1}{8}$ $-\frac{1}{10}$ ,",series_and_sequence
+82,"Which is the next ordered pair in the pattern  (2,1) , (4,4) , (6,9) ",series_and_sequence
+83,"What is the 8th term in the sequence 9,4,-1,-6,-11,?",series_and_sequence
+84,"In the sequence,  $a_n = \frac{(-1)^{n+1}(n-1)(n+2)}{n}$ , what is  $a_{10}$ ?",series_and_sequence
+85,Which of the following patterns shows finite sequence?,series_and_sequence
+86,"Find the general term of the sequence 3,9,27,81,…",series_and_sequence
+87,Write the first four terms of the sequence  $a_n = n^2-1$ ,series_and_sequence
+88,What are the first four terms of sequence  $a_n = n$ ?,series_and_sequence
+89,What are the first four terms of sequence  $a_n = \frac{n}{n+1}$ ?,series_and_sequence
+90,What are the first four terms of sequence  $a_n = (-1)^{n+1}n^2$ ?,series_and_sequence
+91,What are the first four terms of sequence  $a_n = \frac{n(n+1)}{2}$ ?,series_and_sequence
+92, $a_n = (\frac{1}{2})^{n }$ . What is  $a_9$ ?,series_and_sequence
+93, $a_n = \frac{(n+1)^2}{n-9}$ . What is  $a_{14}$ ?,series_and_sequence
+94, $a_n = \frac{(-1)^{n+1}(n-1)(n+2)}{n}$ . What is  $a_7$ ?,series_and_sequence
+95, $a_n = (\frac{n}{9}-12)^n$ . What is  $a_{99}$ ?,series_and_sequence
+96,"Write an expression for the nth term of the given sequence. Assume n starts at 1. Sequence: 2, 4, 6, 8, 10,",series_and_sequence
+97,"Write an expression for the nth term of the given sequence. Assume n starts at 1. Sequence: 1, -1, 1, -1, 1,",series_and_sequence
+98,"Write an expression for the nth term of the given sequence. Assume n starts at 1. Sequence: 3,9,27,81,",series_and_sequence
+99,"Write an expression for the nth term of the given sequence. Assume n starts at 1. Sequence:  $\frac{1}{2\cdot1}$ $\frac{1}{3\cdot2}$ $\frac{1}{4\cdot3}$ $\frac{1}{5\cdot4}$ $\frac{1}{6\cdot5}$ ,",series_and_sequence
+100,Which of the following is a correct description of an arithmetic sequence?,series_and_sequence
+101,"Which of the following is the common difference of the arithmetic sequence 4,7,10,13,\dots?",series_and_sequence
+102,"Whati is the common difference in the sequence: -4, 3, 10, 17, \dots?",series_and_sequence
+103,"Which of the following is the missing term of the arithmetic sequence,-1,-7, blank,-19,-25,\dots?",series_and_sequence
+104,"Which of the following of the common difference of the arithmetic sequence -1,-8,-15,-22,?",series_and_sequence
+105,"Which of the following is the common difference in the arithmetic sequence:  $\frac{1}{2}$ ,1,1  $\frac{1}{2}$,2 ?",series_and_sequence
+106,Which of the following is an arithmetic sequence?,series_and_sequence
+107,"Which of the following is the common difference of an arithmetic sequence whose  $a_2 = 1$ ,  $a_5 = 7$ ?",series_and_sequence
+108,"Which of the following is the common difference of the arithmetic sequence $3a-1$ , $3a$ , $3a+1$x,\dots?",series_and_sequence
+109,"Which of the following is the first positive term of the arithmetic sequence -8, -6, -4,\dots?",series_and_sequence
+110,"Which of the following is the value of a to make $3a+1$ , $4a$, $6a+1$,\dots an arithmetic sequence?",series_and_sequence
+111,Which of the following is not an arithmetic sequence?,series_and_sequence
+112,Which of the following is not an arithmetic sequence?,series_and_sequence
+113,"Which of the following is not true about the arithmetic sequence 5 , 3, 1, -1, -3, …",series_and_sequence
+114,"I was advised by my physician to walk each day in the morning as my daily exercise. On my first day, I walked 40m. On the second and third day, I walked 60m and 80m, respectively, and so on. Which of the following is the distance I walked on the 10th day if I continue the pattern in my daily walk?",series_and_sequence
+115,Which of the following describes an arithmetic sequence?,series_and_sequence
+116,"Which of the following is the common difference in the sequence: 0,4,8,12,",series_and_sequence
+117,"Which of the following is the common difference in the sequence: 3, -2, -7,\dots?",series_and_sequence
+118,"Which of the missing  term in this arithmetic sequence: 23, 18, 13, 8, 3, ___, -7, -12,?",series_and_sequence
+119,"Which of the following is the common difference in the sequence: -7, -4, -1, 2, 5,\dots?",series_and_sequence
+120,"Which of the following is the common difference in the arithmetic sequence: 3$\frac{13}{4}$, $\frac{7}{2}$, $\frac{15}{4}$ ?",series_and_sequence
+121,Which of the following is an arithmetic sequence?,series_and_sequence
+122,Which of the following is the common difference of an arithmetic sequence if  $a_3 = 4$  and  $a_5 = 14$ ?,series_and_sequence
+123,"Which of the following is the common difference of the arithmetic sequence $7p+2$ , $5p+12$, $3p+22$, \dots?",series_and_sequence
+124,"Which of the following is the first positive term of the arithmetic sequence:-11, -8, -5, ?",series_and_sequence
+125,"Which of the following is the value of p so that the terms, $7p+2$ ,$5p+12$, $2p-1$,\dots form an arithmetic sequence?",series_and_sequence
+126,Which of the following is NOT an arithmetic sequence?,series_and_sequence
+127,Which of the following is NOT an arithmetic sequence?,series_and_sequence
+128,"Which is NOT true about the arithmetic sequence: 25, 32, 39, 46,?",series_and_sequence
+129,"During a free-fall, a sky diver jumps 16 feet, 48 feet, and 60 feet on the first, second, and third fall, respectively. If he continues to jump at this pattern, how many feet will he have jumped during the tenth fall?",series_and_sequence
+130,"Determine if the sequence is arithmetic or not. If it is, find the common difference and the next three terms of the sequence: -4,3,10,17,…",series_and_sequence
+131,"Which term of the arithmetic sequence 7, 10, 13, 16, . . . is 304?",series_and_sequence
+132,Find the nth term of the arithmetic sequence given the following conditions:  $a_1 = 2$ $d = 3$ $n = 9$,series_and_sequence
+133,"Which term of the arithmetic sequence 2, 6, 10,….. is 102?",series_and_sequence
+134,"If three arithmetic means are inserted between -15 and 9, find the first of these arithmetic means.",series_and_sequence
+135,"Find the 21st term of the arithmetic sequence 6, 9, 12, 15,…",series_and_sequence
+136,"If three arithmetic means are inserted between 8 and 16, find the second arithmetic mean.",series_and_sequence
+137,"Which term of the arithmetic sequence 3,  $\frac{7}{5}$ $\frac{5}{3}$ ,.., is -27?",series_and_sequence
+138,What is the arithmetic mean between 10 and 24?,series_and_sequence
+139,"What is the 10th term of the following arithmetic sequence: -5, -1, 3, 7, 11,…?",series_and_sequence
+140, Insert two arithmetic means between  $\sqrt{2}$  and $ 4\sqrt{2}$ . Which of the following is the first arithmetic mean?,series_and_sequence
+141,If  $a_1  =  -4$  and  $a_25 = -100$ . Find  $a_100$ ?,series_and_sequence
+142,"If  $a_3 = 8$  and  $a_16 = 47$  and  $a_k = 212$ ,then what is the value of k?",series_and_sequence
+143,Insert 2 arithmetic means between 3 and 30.,series_and_sequence
+144,"After one second, a rocket is 30 ft above the ground. After another second, it is 85 feet above the ground. Then after another second, it is already 140 feet above the ground. If it continues to rise at this rate, how many feet above the ground will the rocket be after 16 seconds?",series_and_sequence
+145,"An object is dropped from a plane and falls 32 feet during  the  first second. For each succeeding second, it falls 40 feet more than  the distance covered in the preceding second. How far has it fallen after 11 seconds?",series_and_sequence
+146,"Find the 9th term of sequence: 2, 5, 8, …;",series_and_sequence
+147,"Find the 20th term of sequence: 2, 5, 8, …;",series_and_sequence
+148,"Find the 16th term of sequence: 1,  $\frac{1}{2}$ , 0, …;",series_and_sequence
+149,"Find the 9th term of sequence: 5, 11, 17, …;",series_and_sequence
+150,"Find the 40th term of sequence: 26, 22, 18, …; ",series_and_sequence
+151,103rd term of the arithmetic sequence if  $a_1  =  -5$  and d  =  -4,series_and_sequence
+152,19th term of the arithmetic sequence if  $a_1 =  25$  and d  =  -2,series_and_sequence
+153,25th  term of the arithmetic sequence if  $a_1 = \frac{1}{2} $ and $ d =  -\frac{3}{8}$ .,series_and_sequence
+154,"In the sequence 2, 6, 10, …; find n if the nth term is 102",series_and_sequence
+155,In the sequence 3$\frac{7}{3}$ $\frac{5}{3}$ ; find n if the nth term is -27,series_and_sequence
+156,Find the15th term of the sequence if  $a_8  =  5$  and  $a_21  =  -60$ ,series_and_sequence
+157,Find 5th term of the sequence if  $a_15  =  29$  and  $a_27  =  47$ ,series_and_sequence
+158,"If  $a_1  =   - 4$  ,   $a_25  =   - 100$  , what is the value of   $a_100$  ?",series_and_sequence
+159,What is the general formula of finding the nth term of an arithmetic sequence.,series_and_sequence
+160,The 10th term of the arithmetic sequence if  $a_1  =  -15$  and d  =  6,series_and_sequence
+161,The 39th  term of the arithmetic sequence if  $a_1  =  40$  and d =  $\frac{1}{2}$ ,series_and_sequence
+162,"Find the 41st term of sequence: 1.4, 4.5, 7.6, …; ",series_and_sequence
+163,"Find the 23rd term of sequence: 9, 18, 27,…;",series_and_sequence
+164,"Find the 27th term of sequence: 14, 6, -2,…;",series_and_sequence
+165,"Find the 16th term of sequence: 3, 3.25, 3.5,…;  ",series_and_sequence
+166,"Find the 28th term of sequence: 1, 4, 7,…;",series_and_sequence
+167,"In the sequence: 0.12, 0.17, 0.22, …; find n if the nth term is 67?",series_and_sequence
+168,"In the sequence: 10, 7, 4, …; what term has a value of -296?",series_and_sequence
+169,"In the sequence: 2, 6, 10, 14, …; what n corresponds to  $a_n =  286$ ?",series_and_sequence
+170,Find 1st term of the sequence if  $a_5  =  26$  and  $a_12  =  47$ ,series_and_sequence
+171,"If  $a_24  =  85$  , and  $a_28  =  100$  , what is  $a_1$ ?",series_and_sequence
+172,What is the arithmetic mean between 5 and 19?,series_and_sequence
+173,What is the arithmetic mean between  $3x^2+8$  and  $x^2-6$ ?,series_and_sequence
+174,What is the arithmetic mean between -2 and 58?,series_and_sequence
+175,What is the arithmetic mean between  $2x+3y$  and  $x-5y$ ?,series_and_sequence
+176,What is the arithmetic mean between 13.8 and 15.6?,series_and_sequence
+177,Three arithmetic means between 2 and 22.,series_and_sequence
+178,Four arithmetic means between 8 and 23,series_and_sequence
+179,Two arithmetic means between 41 and 95,series_and_sequence
+180,Two arithmetic means between -5 and 1,series_and_sequence
+181,Two arithmetic means between 97 and 172,series_and_sequence
+182,"Find the missing term of the arithmetic sequence: 7, ?, 9",series_and_sequence
+183,"Find the missing term of the arithmetic sequence: 1, ?,  $\frac{1}{5}$ ",series_and_sequence
+184,"Find the missing terms of the arithmetic sequence: 8,?,?,?,20",series_and_sequence
+185,"Find the missing terms of the arithmetic sequence: -4,?,?,5",series_and_sequence
+186,"Find the missing terms of the arithmetic sequence: -5,?,?,?,?,3",series_and_sequence
+187,What is the arithmetic mean between the given arithmetic extremes: 19 and 7,series_and_sequence
+188,What is the arithmetic mean between the given arithmetic extremes:  $\frac{3}{11}$  and  $\frac{7}{11}$ ,series_and_sequence
+189,What is the arithmetic mean between the given arithmetic extremes: $15x$ and $23x$,series_and_sequence
+190,What is the arithmetic mean between the given arithmetic extremes:  $9\sqrt{3}$  and $11\sqrt{3}$ ,series_and_sequence
+191,What is the arithmetic mean between the given arithmetic extremes:  $6-7\sqrt{7}$  and  $ 2+3\sqrt{7}$ ,series_and_sequence
+192,Three arithmetic means between 18 and 92,series_and_sequence
+193,Three arithmetic means between -14 and 6,series_and_sequence
+194,Four arithmetic means between 24 and -8.,series_and_sequence
+195,Five  arithmetic means between 6 and -18.,series_and_sequence
+196,Two arithmetic means between   $2\sqrt{5}$  and $ 14\sqrt{5}$ ,series_and_sequence
+197,"Find the missing term of arithmetic sequence: $x$, ?, $9x$",series_and_sequence
+198,"Find the missing terms of arithmetic sequence: 31, ?, ?, 85",series_and_sequence
+199,"Find the missing terms of arithmetic sequence: ?, ?, ?, 17, 23, 29",series_and_sequence
+200,"Find the missing term of arithmetic sequence: ?, 6, ?, ?, 30",series_and_sequence
+201,"Which term of the arithmetic sequence 5, 9, 13, 17, … is 409?",series_and_sequence
+202,"Find   the   nth     term of the arithmetic sequence given the following conditions:  $a_1 = 5$ , d = 5, n = 25",series_and_sequence
+203,"Which term of the arithmetic sequence 5, 9, 13, 17,….. is 401?",series_and_sequence
+204,"If three arithmetic means are inserted between -15 and 9, find the first of these arithmetic means.",series_and_sequence
+205,"Find the 20th term of the arithmetic sequence 5, 9, 13, 17, 21,…",series_and_sequence
+206,"If three arithmetic means are inserted between 11 and 39, find the second arithmetic mean.",series_and_sequence
+207,"Which term of the arithmetic sequence 4, 1, -2, -5, … is -29?",series_and_sequence
+208,What is the arithmetic mean between 15 and 40?,series_and_sequence
+209,"What is the 8th term of the following arithmetic sequence: -5, -1, 3, 7, 11,…?",series_and_sequence
+210,Which of the following is an arithmetic mean between  $2-\sqrt{3}$ and $ 4-\sqrt{3}$ ?,series_and_sequence
+211,If  $a_1  =  -3$  and  $a_5  =  5$ . Find  $a_10$ ?,series_and_sequence
+212,"If  $a_3 = 11$  and  $a_5 = 7$  and  $a_k$  is the kth term of the sequence and  $a_k = -9$ , then what is the value of k?",series_and_sequence
+213,Insert 3 arithmetic means between 8 and 16.,series_and_sequence
+214,"After one second, a rocket is 40 ft above the ground. After another second, it is 95 feet above the ground. Then after another second, it is already 150 feet above the ground. If it continues to rise at this rate, how many feet above the ground will the rocket be after 16 seconds?",series_and_sequence
+215,"Jose is the track and field representative of the Municipal NHS for the provincial meet. He begins training by running 5 miles  during  the  first week, 6.5 miles  during the  second  week,  and  8  miles on  the  third  week. If his training pattern continues, how far will he run on the tenth week?",series_and_sequence
+216,"You have accepted a job with a salary of P27,000.00 a month during the first year. At the end of each year, you receive a P1,500.00 raise. What is your monthly salary during the first six years?",series_and_sequence
+217,"An object is dropped from a plane and falls 32 feet during the first second. For each succeeding second, it falls 40 feet more than the distance covered in the preceding second. How far has it fallen after 11 seconds?",series_and_sequence
+218,"Find the next three terms of the arithmetic sequence: 3, 8, 13, 18, …",series_and_sequence
+219,"In the arithmetic sequence: 3, 8, 13, 18,…; what is the 15th  term?",series_and_sequence
+220,"Find the 21st term of the arithmetic sequence: 6, 9, 12, 15,… ",series_and_sequence
+221,"In the arithmetic sequence: 7, 10, 13, 16, . . .; find n if  $a_n = 304$ ",series_and_sequence
+222,"The 3rd term of an arithmetic sequence is 8 and the 16th term is 47. Find d,  $a_1$  and the 71st term.",series_and_sequence
+223,"In the sequence: 10, 15, 20, 25,…; what term has a value of 385?",series_and_sequence
+224,"In the sequence: 4, 8, 12, 16, 20, 24; find its arithmetic means. ",series_and_sequence
+225,What operation is used in obtaining the next terms in a geometric sequence?,series_and_sequence
+226,What operation is used in obtaining the succeeding terms in an arithmetic sequence?,series_and_sequence
+227,Which of the following terms is closely related to a geometric sequence?,series_and_sequence
+228,Which of the following terms is closely associated to an arithmetic sequence?,series_and_sequence
+229,Which of the following sequences is arithmetic?,series_and_sequence
+230,Which of the following presents a geometric sequence?,series_and_sequence
+231,"What is the common difference in the sequence -1$-\frac{1}{2}$ ,0$\frac{1}{2}$ ,1",series_and_sequence
+232,What is the common ratio in the sequence -1$\frac{1}{2}$ $-\frac{1}{4}$ $\frac{1}{8}$ ,series_and_sequence
+233,"Is the following an arithmetic sequence?: 5,	11,	17,	23,",series_and_sequence
+234,"Is the following an arithmetic sequence?: 3,	9,27,81,",series_and_sequence
+235,"Is the following an arithmetic sequence?: 12,9,6,3,",series_and_sequence
+236,Is the following an arithmetic sequence?: 1$\frac{1}{2}$ $\frac{1}{3}$ $\frac{1}{4}$ ,series_and_sequence
+237,"Is the following an arithmetic sequence?:8$\frac{17}{2}$ ,9$\frac{19}{2}$ ",series_and_sequence
+238,"Find the next three terms of the geometric sequence 3, 21, 147,…",series_and_sequence
+239,"You are planning to buy a new blouse which costs ₱300.00  as  a present to your mother this Christmas season. You started saving money on the first week of November and doubled the amount to be saved every week. If you started saving ₱5.00 on the first week, will you be able to buy the blouse at the end of the second week of December? What is the sequence obtained?",series_and_sequence
+240,"Find the missing term of the sequence: 3,12,48,?",series_and_sequence
+241,"Find the missing term of the sequence: ?,32,64,128",series_and_sequence
+242,"Identiy the value of the missing term in the geometric sequence: ?, -32, 16, -8",series_and_sequence
+243,"Identiy the value of the missing term in the geometric sequence:  100, 50, 25, ?",series_and_sequence
+244,"Identiy the value of the missing term in the geometric sequence: -2,12,?,432",series_and_sequence
+245,"Identiy the value of the missing term in the geometric sequence: -4,?,-64,-256",series_and_sequence
+246,"Identiy the value of the missing term in the geometric sequence:32,2$\frac{1}{8}$ ,?",series_and_sequence
+247,"Is the following sequence arithmetic or geometric?: 12, 15, 18, 21,..",series_and_sequence
+248,"Is the following sequence arithmetic or geometric?: 10,5,0,-5,..",series_and_sequence
+249,"Is the following sequence arithmetic or geometric?: 5,15,45,135,",series_and_sequence
+250,"Is the following sequence arithmetic or geometric?: -24,12,-6,3,",series_and_sequence
+251,This refers to the number that is being multiplied to obtain a geometric sequence.,series_and_sequence
+252,Which of the following statements is true to all geometric sequences?,series_and_sequence
+253,"If the common ratio of a sequence is –3 and the first term is 3, then the fourth term is",series_and_sequence
+254,Which of the following is an example of a geometric sequence?,series_and_sequence
+255,"Supply the missing term in the sequence 1, ?,  $\frac{1}{4}$ $\frac{1}{8}$ ,  to make it a geometric sequence.",series_and_sequence
+256,Which of the following statements will let you obtain the common difference of an arithmetic sequence?,series_and_sequence
+257,"What is the common difference in the sequence 1$\frac{1}{2}$ ,0$-\frac{1}{2},-1$ ,?",series_and_sequence
+258,Which of the following is NOT an arithmetic sequence?,series_and_sequence
+259,"What term fits on the blank in the sequence __ , 0, 3, 6, …?",series_and_sequence
+260,"Determine whether the situation is arithmetic, geometric or neither: Growth of bacteria on a petri dish",series_and_sequence
+261,"Determine whether the situation is arithmetic, geometric or neither: 15, 10, 5, 0, ",series_and_sequence
+262,"Determine whether the situation is arithmetic, geometric or neither:  Doubling your weekly savings",series_and_sequence
+263,"Determine whether the situation is arithmetic, geometric or neither:  The number of people watching a viral video within an hour",series_and_sequence
+264,"Determine whether the situation is arithmetic, geometric or neither: Playing the stacking cups game",series_and_sequence
+265,"Determine whether the situation is arithmetic, geometric or neither:  The taxi fare a passenger pays per kilometer traveled",series_and_sequence
+266,Which of the following binomials is a factor of the  $P(x) = x^3-7x+5$ ?,polynomials
+267,"Is the first polynomial a factor of the second polynomial ,  $x-1$ ; $x^2+2x+5$ ?",polynomials
+268,Which  is  the  missing  factor  in  the  equation   $x^2- 4  =  ( x - 2 ) $   ,polynomials
+269,Which of the following is NOT a factor of  $x^3+5x^2-x-5$ ?,polynomials
+270,What are the factors of $ x^2-2x-24$ ?,polynomials
+271,What is the remainder when  $x^3-4x^2+x+8$  is divided by $ x-2$ ?,polynomials
+272,"When $P(x)$  is divided by  $x-r$  and the remainder is equal to zero, it means",polynomials
+273,Evaluate the polynomial $ x^3+x^2+x+3$  if the value of  $x = -2$ .,polynomials
+274,Which polynomial gives a remainder of 0 when divided by $ 3x-2$ ?,polynomials
+275,Which of the following is a factor of $ 2x^2-5x+3$ ?,polynomials
+276,What is the remainder if  $x^2-7x-4$  is divided by $ x-20$ ,polynomials
+277,Which statement is true,polynomials
+278,Which is the remainder if  $2x^3-7x^2-19x+20$  is divided by  $x-5$ ,polynomials
+279, $x-3$  is a factor of $ x^4-3x^3-x+3$ .,polynomials
+280,Find another factor of  $x^3-7x^2+4x-28$  if  $x-7$  is a factor.,polynomials
+281, $f(x)  =  x^3-5x^2-7x+4$  if $ f(1)$,polynomials
+282, $f(x) = x^3-5x^2-7x+4$  if  $f(-2)$,polynomials
+283, $f(x) = x^3-5x^2-7x+4$  if  $f(\frac{1}{2})$,polynomials
+284, $g(x) = 2x^6+3x^4-x^2+3$  if $ g(2)$,polynomials
+285, $g(x) = 2x^6+3x^4-x^2+3$  if  $g(3)$,polynomials
+286, $g(x) = 2x^6+3x^4-x^2+3$  if  $g(-1)$,polynomials
+287, $f(x) = 2x^3-7x+3$  if  $f(-3)$,polynomials
+288, $f(x) = 2x^3-7x+3$  if $f(5)$,polynomials
+289, $f(x) = 2x^3-7x+3$  if  $f(-10)$,polynomials
+290,Determine if  $x-3$  is a factor of $ P(x)$  where $ P(x) = x^4-3x^3-x+3$ .,polynomials
+291,Determine if  $x-1$  is a factor of  $P(x)$  where  $P(x) = x^{25}-4$ ,polynomials
+292,Find k so that $ x-2$  is a factor of  $P(x)x^3-kx^2-4x+20$ ,polynomials
+293,Use the remainder theorem to find $ P(2)$  in  $P(x) = x^4+4x^3-x^2-16x-4$,polynomials
+294,Prove that $ y-3$  is a factor of  $3y^3-7y^2-20$  u\sin g the remainder theorem.,polynomials
+295,Evaluate  $P(4)$   in  $P(y) = 3y^3-7y^2-20$ .,polynomials
+296,Use the factor theorem to \det er\min e whether  $x-1$  is a factor\of $ P(x) = x^2+2x+5$ ,polynomials
+297,Use the remainder theorem to find the remainder R in  $(3x^2+5x^3-8 )$  \div  $(x-4)$.,polynomials
+298, $x-r$  is a factor of  $P(x)$  if and only if the remainder R when  $P(x)$ div $(x-r)$  is,polynomials
+299,By the Remainder Theorem $ R = 0$  if and only if,polynomials
+300,Thus$ x-r$  is a factor of  $P(x)$  if and only if,polynomials
+301,"The volume of a rectangular solid is $(x^3+3x^2+2x)$  cubic cm, and its height is $x+1$  cm. What is the area of the base?",polynomials
+302,What is the remainder if  $x^2-7x-4$  is divided by $ x-2$ ?,polynomials
+303,Which of the following statements is true,polynomials
+304,Which is the remainder if  $2x^3+4x^2-x+7$  is divided by $ x-2$ ?,polynomials
+305,Is  $x-3$  a factor of  $x^4-3x^3-x+3$ ?,polynomials
+306,Find another factor of  $x^3-7x^2+4x-28$  if  $x-7$  is a factor.,polynomials
+307,Determin e which of the following binomials is a factor of  $P(x) = x^3-7x+5$ .,polynomials
+308,Is the first polynomial a factor of the second polynomial$ x-1$ ; $ x^2+2x+5$ ?,polynomials
+309,Which is the missing factor in the equation  $x^2-4 = (x-2)$ ,polynomials
+310,Which of the following is a factor of  $x^3+5x^2-x-5$ ,polynomials
+311,What are the factors of $ x^2-2x-24$ ?,polynomials
+312,What is the remainder when  $x^3-4x^2+x+8$  is divided by $ x-2$ ,polynomials
+313,"When $ P(x)$  is divided by  $x-r$  and is equal to 0, it means",polynomials
+314,Evaluate the polynomial $ x^3+x^2+x+3$  at the given value of $ x = -2$ ,polynomials
+315,Which polynomial gives a remainder of zero when divided by  $3x-2$ ,polynomials
+316,Which of the following is a factor of  $2x^2-5x+3$ ,polynomials
+317,"Let  $P(x) = x^3-64$ , Find  $P(4)$",polynomials
+318,Let  $P(x) = x^3-64$ . Find the remainder when $P(x)$  is divided by $ x-4$ ,polynomials
+319,Let  $P(x) = x^3-64$ . Find $ P(-4)$,polynomials
+320,Let $ P(x) = x^3-64$ . Find the remainder when $ P(x)$  is divided by  $(x+4)$,polynomials
+321,Find the quotient when  $(x^3-2x^2-11x -20)$  is divided by  $(x-5)$ ,polynomials
+322,What is the quotient when  $2x^3-9x^2+3$   is divided by  $(2x-1)$ ,polynomials
+323,What will be multiplied  $x^2-6x+2$  to get  $3x^3-19x^2+12x -2$  ,polynomials
+324,The volume of a rectangular prism is  $(2x^3-11x^2+13x-4)$ cm^3 and its height is   $(x-4)$  cm. What is the area of its base,polynomials
+325, $x+1$ \. What is the number of terms ,polynomials
+326, $x+1$ \. What is the name of the polynomial according to the number of terms,polynomials
+327, $x+1$ \. What is the degree,polynomials
+328, $x+1$ \. What is the name of the polynomial according to degree,polynomials
+329, $2x^4+3x^2+4x+1$ \. What is the number of terms ,polynomials
+330, $2x^4+3x^2+4x+1$ \. What is the name of the polynomial according to the number of terms,polynomials
+331, $2x^4+3x^2+4x+1$ \. What is the degree,polynomials
+332, $2x^4+3x^2+4x+1$ \. What is the name of the polynomial according to degree,polynomials
+333, $5x^3$ . What is the number of terms ,polynomials
+334, $5x^3$ . What is the name of the polynomial according to the number of terms,polynomials
+335, $5x^3$ . What is the degree,polynomials
+336, $5x^3$ . What is the name of the polynomial according to degree,polynomials
+337, $x^6-3x^3+1$ . What is the number of terms ,polynomials
+338, $x^6-3x^3+1$ .  What is the name of the polynomial according to the number of terms,polynomials
+339, $x^6-3x^3+1$ .  What is the degree,polynomials
+340, $x^6-3x^3+1$ .  What is the name of the polynomial according to degree,polynomials
+341, $3x^3+2x$ . What is the number of terms ,polynomials
+342, $3x^3+2x$ . What is the name of the polynomial according to the number of terms,polynomials
+343, $3x^3+2x$ . What is the degree,polynomials
+344, $3x^3+2x$ . What is the name of the polynomial according to degree,polynomials
+345,Divide  $(x^3-9x -3x^2+27)$  by  $(x+3)$ ,polynomials
+346,Divide  $x^4+2x^3-4x^2-10x+5$  by  $(x^2-5)$ .,polynomials
+347,Divide  $(x^3-9x-3x^2+27)$  by  $(x+3)$  using synthetic division,polynomials
+348,Divide  $(2x^4-3x^2+x-4)$  by  $(x-2)$ .,polynomials
+349,Divide  $(3x^3-16x^2+3x+12)$  by  $(3x+2)$ . ,polynomials
+350,Divide the following Polynomials using long division  $(2x^3+9x^2+3x-4)$  by  $(x+4)$ ,polynomials
+351,Divide the following Polynomials using long division  $(8x^3+27)$  by  $(2x+3)$ ,polynomials
+352,Divide the following Polynomials using long division  $\frac{11x-20x^2+12x^3-14}{x-2}$ ,polynomials
+353,Divide the following polynomials using synthetic division  $(4x^2+x-3)$  by  $(x-3)$ ,polynomials
+354,Divide the following polynomials using synthetic division  $(3x^2+4x-x^4-2x^3-4)$  by  $(x+2)$ ,polynomials
+355,Divide the following polynomials using synthetic division  $(2x^5-2x^3+4x^2-3)$  by  $(x+1)$ ,polynomials
+356,Divide the following polynomials using synthetic division  $(-x^4+2x^5-2x-3x^2+1)$  by  $(x-2)$ ,polynomials
+357,Divide the following polynomials using synthetic division  $(2x^3+5x^2-4x-5)$  by  $(2x+1)$ ,polynomials
+358,"Pedro bought  $(18x^3-39x^2+8x+16)$  pesos worth of tokens for your classroom Christmas party. If each token is worth  $(3x-4)$  pesos, how many tokens did peter buy",polynomials
+359,Lita works for  $(x+5)$  hours as a service crew in a fast-food chain. She earns  $(2x^3+23x^2-26x+3)$  pesos today. How much does lita earn per hour.,polynomials
+360,The area of a rectangle is  $(4x^4+4x^3+4x^2+2x+1)$   square centimeter. If the length of the rectangle is  $2x^2+1$  centimeter. What is the width of the rectangle,polynomials
+361,"If a sixth-degree polynomial is divided by a second degree polynomial, what is the degree of the quotient",polynomials
+362,Divide:  $x^3+2x^2-5x-10$  by  $x^2-5 $ ,polynomials
+363,"In the division algortihm  $\frac{P(x)}{D(x)} = Q(x)+\frac{r(x)}{D(x)}$ , what is the divisor",polynomials
+364,Find the remainder when  $x^3-2x^2+4x-3$  is divided by  $x+2$ ,polynomials
+365,"if   $x^3-2x^2-5x+6$  is divided by  $x+1$ , the remainder is zero",polynomials
+366,Divide  $(2x^3+3x^2-10x+12)$  by  $(x-3)$ . What is the remainder,polynomials
+367,Divide: $(2x^3+3x^2-10x+12)$  by $(x-3)$. What is the divisor,polynomials
+368,Divide:  $(2x^3+3x^2-10x+12)$  by  $(x-3)$ . What is the quotient,polynomials
+369,Find the quotient when  $(x^3+2x^2-19x-20)$  is divided by  $(x+5)$ ,polynomials
+370,What is the quotient when  $(2x^3+9x^2-2x-3)$  is divided by  $(2x+1)$ ,polynomials
+371,What will be multiplied to  $x^2-6x+2$  to get  $3x^3-17x^2+2$ ,polynomials
+372,The volume of a rectangular prism is  $(2x^3+11x^2+11x-4)cm^{3}$ and its height is  $(x+4)$  cm. What is the area of its base,polynomials
+373,This refers to the sum of the terms of a geometric sequence,series_and_sequence
+374,Find the sum of the first six terms of a geometric sequence whose first term is 2 and common ratio of  $\frac{2}{3}$ ,series_and_sequence
+375,"Find the sum of the first five terms of the geometric sequence  $4, 6, 9$ ",series_and_sequence
+376,"Find the sum of the first five terms of the geometric sequence  $2, 8, 32, 128$ ",series_and_sequence
+377,"Find the sum of the terms of the infinite geometric sequence  $45, 15, 5 $ ",series_and_sequence
+378,"Find specified geometric series of the following geometric sequences:  $3,12,48,S_7$ ",series_and_sequence
+379,"Find specified geometric series of the following geometric sequences:  $2,6,18,S_6$ ",series_and_sequence
+380,"Find specified geometric series of the following geometric sequences:  $125,25,5,S_8$ ",series_and_sequence
+381,Find specified geometric series of the following geometric sequences: First term  $A_1 = 2$ and common ration  $r = -4$  find $ S_8$ ,series_and_sequence
+382,Find specified geometric series of the following geometric sequences: First term  $A_1 = \frac{1}{2}$ and common ration  $r = -2$ ;\ find\ $ S_6$ ,series_and_sequence
+383,"Find the geometric series of each infinite geometric sequence:  $12,6,3$ ",series_and_sequence
+384,"Find the geometric series of each infinite geometric sequence:  $125,25,5$ ",series_and_sequence
+385,"Find the geometric series of each infinite geometric sequence: $1,\frac{1}{5},\frac{1}{25}$ ",series_and_sequence
+386,"Find the geometric series of each infinite geometric sequence:  $15,5,\frac{5}{3}$ ",series_and_sequence
+387,"Find the geometric series of each infinite geometric sequence:  $1,\frac{2}{3},\frac{4}{9}$ ",series_and_sequence
+388,"Find the sum of the first five terms of the geometric series  $7, 14, 28$ ",series_and_sequence
+389,Find the sum of the first seven terms of a geometric sequence whose first term is 3 and common ratio is 4.,series_and_sequence
+390,"Find the sum of the first 6 terms of geometric series  $\frac{1}{4}$, $\frac{1}{2}, 1$ ",series_and_sequence
+391,Find the sum of the first 6 terms of a geometric sequence whose first term is 2 and common ratio is  $\frac{2}{3}$ ,series_and_sequence
+392,"What is the sum of the first 10 terms of the geometric sequence  $4$ , $ 2$ , $ 1$ ",series_and_sequence
+393,is the sum of the terms of a geometric sequence,series_and_sequence
+394,"To find finite geometric series, use the formula ",series_and_sequence
+395,"Use the sequence  $3$ , $6$ , $12$  .Determine $ a_1$ ",series_and_sequence
+396,"Use the sequence  $3$ , $6$ , $12$  .Determine r",series_and_sequence
+397,"Use the sequence  $3,6,12  $ .Determine $ S_5$ ",series_and_sequence
+398,"Joey saves an amount in his bamboo bank each week. To make it fun, he doubles whatever amount is inside the bank next week. On the first week, he saves 1 peso. On the 10th week, how much will be in the bamboo bank in all?",series_and_sequence
+399,Suppose Rico saves P100.00 in January and each month thereafter he manages to save one-half more than what he saved in the previous month. How much is Rico’s savings after 10 months? Round off your final answer to two decimal places.,series_and_sequence
+400,"Find the sum of the terms of the infinite geometric sequence  $3,1,\frac{1}{3}$ ",series_and_sequence
+401,Find the sum of an infinite geometric sequence whose first term is 5 and common ratio is $ \frac{1}{4}$ ,series_and_sequence
+402,Find the sum of the terms of an infinite geometric sequence whose first term is 4 and common ratio is $\frac{1}{5}$ ,series_and_sequence
+403,"Given the sequence  9, 3, 1 , find  $S_{\infty}$ ",series_and_sequence
+404,is a set of three dots that indicates infinity.,series_and_sequence
+405,"To find infinite geometric series, use the formula ",series_and_sequence
+406,"In an infinite geometric series,  $-1 1$ ",series_and_sequence
+407,"Use the sequence  $2,1,\frac{1}{2}$ , Determine r",series_and_sequence
+408,"Use the sequence  $2,1,\frac{1}{2}$ , Determine  $S_{\infty}$ ",series_and_sequence
+409,How can you indicate infinite geometric sequences?,series_and_sequence
+410,Find the sum of the first six terms of a geometric sequence whose first term is 2 and common ratio is  $\frac{2}{3}$ ,series_and_sequence
+411,"Find the sum of the first five terms of the geometric sequence  $4,6,9$ ",series_and_sequence
+412,"Find the sum of the terms of the infinite geometric sequence $ 45, 15, 5$ ",series_and_sequence
+413,"Find the sum of the first five terms of the geometric series  $2, 8, 32,128$ ",series_and_sequence
+414,"Find the specified geometric series of the following geometric sequences: 3,12,48, $S_7$ ",series_and_sequence
+415,"Find the specified geometric series of the following geometric sequences:  2,6,18, $S_6$ ",series_and_sequence
+416,"Find the specified geometric series of the following geometric sequences:  125,25,5, $S_8$ ",series_and_sequence
+417,Find the specified geometric series of the following geometric sequences: First term  $a_1 = 2$ and a common ratio $ r = -4$ ; find  $S_8$ ,series_and_sequence
+418,Find the specified geometric series of the following geometric sequences: First term  $a_1 = \frac{1}{2}$ and a common ratio  $r = -2$ ; find  $S_6$ ,series_and_sequence
+419,"Find the sum of the terms of each of the following infinite geometric sequences:  $12,6,3$ ",series_and_sequence
+420,"Find the sum of the terms of each of the following infinite geometric sequences:  $125,25,5$ ",series_and_sequence
+421,"Find the sum of the terms of each of the following infinite geometric sequences:  $1,\frac{1}{5},\frac{1}{25}$ ",series_and_sequence
+422,"Find the sum of the terms of each of the following infinite geometric sequences:  $15,5,\frac{5}{3}$ ",series_and_sequence
+423,"Find the sum of the terms of each of the following infinite geometric sequences:  $1,\frac{2}{3},\frac{4}{9}$ ",series_and_sequence
+424,"When a ball is tossed to a height of 4 meters above the ground, it always rebounds to 40% of its previous height until it stops. Find the total distance that the ball has covered when it strikes the ground for the fifth time.",series_and_sequence
+425,"Determine the possible factors of the polynomial equation that has a roots of 3, -2, -6 of multiplicity of 5 ",polynomial_equation
+426,"Determine the possible factors of the polynomial equation that has a roots of $\frac{1}{2}$ , $\frac{-2}{3}$, 4, 6? ",polynomial_equation
+427,"Determine the possible factors of the polynomial equation that has a roots of $5-\sqrt{2}$, 3 , $\frac{1}{4}$? ",polynomial_equation
+428,"Determine the possible factors of the polynomial equation that has a roots of $\sqrt{2}$ , 4 of multiplicity of 2? ",polynomial_equation
+429,Determine the possible factors of the $x^3 - 6x^2 - x + 6 = 0$? ,polynomial_equation
+430,Determine the possible factors of the $3x^3 - 14x^2 +20x -8 = 0$,polynomial_equation
+431,Determine the possible factors of the $ 2x^4 - 21x^3 + 72x^2 -91x + 30 = 0$? ,polynomial_equation
+432,Determine the possible factors of the $ x^5 - 9x^3 - 2x^2 + 18x + 12 = 0 $?,polynomial_equation
+433,Determine the possible factors of the $ 4x^5 + x^4  - 40x^3 + 2x ^2 + 75x +18 = 0 $?,polynomial_equation
+434,Determine the possible factors of the $ 12x^7 + 70x^6 + 132x^5 + 72x^4 - 16x^3 = 0 $?,polynomial_equation
+435,Find The roots of the equations $ x^3 -7x^2 -26x +72 = 0$?,polynomial_equation
+436,Find The roots of the equations $ x^3 -14x^2 + 57x -72 = 0$?,polynomial_equation
+437,Find The roots of the equations $ 8x^4 - 25x^3  +27x^2 - 11x + 1 = 0$?,polynomial_equation
+438,Find The roots of the equations $x^4 +3x^3 - 11x^2 - 21x + 28 = 0$?,polynomial_equation
+439,Find The roots of the equations $ 4x^4 +15x3 - 27x^2 - 7x+ 15 = 0$?,polynomial_equation
+440,Find The roots of the equations $ 2x^4 - 19x^3+ 5x^2 + 35x + 9 = 0$?,polynomial_equation
+441,Find The roots of the equations $ 5x^5 - 14x^4 - 27x^3 + 128x^2 - 140x + 48 = 0 $ ?,polynomial_equation
+442,Find The roots of the equations $ 4x^5 + x^4 - 40x^3 + 2x^2 + 75x + 18 = 0 $ ?,polynomial_equation
+443,Find The roots of the equations $ 6x^5 -71x^4 + 246x^3 - 317x^2 + 108x + 28 = 0 $?,polynomial_equation
+444,Find The roots of the equations $ 5x^6 - 55x^5 + 95x^4 + 215x^3 - 100x^2 - 160x = 0 $?,polynomial_equation
+445,Find The roots of the equations $ x^4 - 11x^3 + 15x^2 + 88x + 12 = 0 $?,polynomial_equation
+446,Find The roots of the equations $ 9x^3 - 73x^2 + 7x + 8 = 0 $?,polynomial_equation
+447,Find The roots of the equations $ x^4 + 4x^3 - 4x^2 - 32x - 32 = 0 $?,polynomial_equation
+448,Find The roots of the equations $ (x + 1)(x - 2) - 2x (x + 1) 2 = 0 $?,polynomial_equation
+449,Find The roots of the equations $ (3x - 1)(x - 1)^2 - x (x - 1) = 0$?,polynomial_equation
+450,Find The roots of the equations $ 2X^6 -13X^5 + 27x^4 - 11x^3 - 22x^2 + 12x + 8 = 0 $?,polynomial_equation
+451,Find The roots of the equations $ 4x^5 - 32x^4 + 89x^3 = 103x^2 - 51x + 9 $?,polynomial_equation
+452,Find The roots of the equations $ 3x^6 + 3x^5 - 44x^4 + 74x = 32x^2 + 13x - 10 $?,polynomial_equation
+453,Find The roots of the equations $ 8x^8 - 8x^7 - 64x^6 + 96x^5 = 0$?,polynomial_equation
+454,Find The roots of the equations $ x^8 + 8x^7 + 23x^6 + 36x^5 + 39x^4 + 32x^3 + 17x^2 + 4x = 0 $?,polynomial_equation
+455,"Find an equation of the polynomial with roots 6 of multiplicity 2, -3, and $\frac{1}{4}$.",polynomial_equation
+456,"If the polynomial $ x^4 +7x^3 - mx^2 - 19x + 14 = 0 $ has a root 1 of multiplicity 2, find m and the other roots",polynomial_equation
+457,"Show that $ x + r $ is a factor of $ xp + rp $, for any odd integer $p$.",polynomial_equation
+458,"the volume of a rectangular prism is $ 56m^3 $. if the length is 3 meters longer than the height and the width is 2 meters less than the height, find the dimension of the prism.  ",polynomial_equation
+459,"An open box of volume $84 \text{cm}^3$ was made from a 10 cm  by 5 cm of cardboard by removing a square from each corner, Find the dimensions of the open box.",polynomial_equation
+460,"Find possible rational root, rational root of polynomials: $x^3+x^2-5x+3=0$",polynomial_equation
+461,"Find possible rational root, rational root of polynomials: $x^3-7x^2+11x-5=0$",polynomial_equation
+462,"Find possible rational root, rational root of polynomials: $x^3+4x^2+5x+2=0$",polynomial_equation
+463,"Find possible rational root, rational root of polynomials: $2x^3-5x^2+4x-1=0$",polynomial_equation
+464,"Find possible rational root, rational root of polynomials: $3x^3+11x^2+5x-3=0$",polynomial_equation
+465,"Find possible rational root, rational root of polynomials: $4x^3-16x^2+9x+9=0$",polynomial_equation
+466,"Find possible rational root, rational root of polynomials: $3x^4-10x^3-24x^2-6x+5=0$",polynomial_equation
+467,"Find possible rational root, rational root of polynomials: $x^4+7x^3+11x^2-7x-12=0$",polynomial_equation
+468,"Find possible rational root, rational root of polynomials: $x^7-8x^4+x^3-8=0$",polynomial_equation
+469,"Find possible rational root, rational root of polynomials: $x^4-5x^2+4=0$",polynomial_equation
+470,"Which of the following is an example of a polynomial equation? $14x = 0$ , $ x = \frac{1}{2x} $,  $ 5x^3 - 4\sqrt{2x} + x = 0$, $ x^{-4} + 4x^{-3} = 0 $",polynomial_equation
+471,What is the degree of the polynomial equation $2x^4 - x^2 - 4 = 0$ ?,polynomial_equation
+472,What value of m will make $2m - 1$ equal to zero?,polynomial_equation
+473,Find a quadratic polynomial with roots 1 and -2? ,polynomial_equation
+474,"Find a cubic polynomial equation with roots -2, 2 and 4",polynomial_equation
+475,"According to Rational Root Theorem, which of the following is NOT a possible root of the polynomial  $6b^3 - 3b^2 + 2b - 4 = 0$ ?",polynomial_equation
+476,"Using Rational Root Theorem, list all the possible rational roots of the polynomial equation  $4x^4 + 31x^3 - 4x^2 - 89x + 22 = 0$ .",polynomial_equation
+477,Which of the following is NOT a root of  $x(x + 3)(x + 3)(x - 1)(2x + 1) = 0$  ?,polynomial_equation
+478,"If 7 is a rational root of the polynomial  $2x^3 - 14x^2 + x - 7 = 0$ , which of the following is true?",polynomial_equation
+479,How many possible real roots does the polynomial equation  $5x^3 + 4x^2 - 31x + 6 = 0$  have?,polynomial_equation
+480,"If -1 is a root of  $x^2 - 3kx + 3k - 7 = 0$ , then the value of k is ___.",polynomial_equation
+481,Which of the following polynomial equations has -3 as a root?,polynomial_equation
+482,Identify all real roots of  $4x^4 + 31x^3 - 4x^2 - 89x + 22 = 0$ .,polynomial_equation
+483,The volume of a rectangular solid is 750 cubic units. The width (w) is 7 units more than the height (h) and the length (l) is 1 unit more than 8 times the height. Which correctly represents the length of the solid?,polynomial_equation
+484,The volume of a rectangular solid is 750 cubic units. The width (w) is 7 units more than the height (h) and the length (l) is 1 unit more than 8 times the height. What is the working equation to find the dimensions of the solid?,polynomial_equation
+485,Is the expression a polynomial  $2x^3 + 3x - 2$ ,polynomial_equation
+486,Is the expression a polynomial   $2x^{-3} + 3x + 2$ ,polynomial_equation
+487,Is the expression a polynomial  $2^x - 3x + 2$  ,polynomial_equation
+488,Is the expression a polynomial  $2x + \frac{3}{x} + 2$ ,polynomial_equation
+489,Is the expression polynomial  $2x^3 + \sqrt{3x} - 2$ ,polynomial_equation
+490,What is the degree of polynomial  $x^4- 2x^3 + x$   ?,polynomial_equation
+491,What is the degree of polynomial  $x+1$ ,polynomial_equation
+492,What is the degree of the polynomial expression  $x^3 - 5$ ,polynomial_equation
+493,What is the degree of the polynomial  $3x^5$ ,polynomial_equation
+494,What is the degree of polynomial 10,polynomial_equation
+495,What is the degree of the polynomial equation   $8a - 10 = 0$ ,polynomial_equation
+496,What is the degree of the polynomial  $b^2 + b = 20$ ,polynomial_equation
+497,What is the degree of the polynomial equation  $\frac{1}{2}x^2 + x + 20 = 0$ ,polynomial_equation
+498,What is the degree of the polynomial equation   $2d^3 - 1 = d^2$ ,polynomial_equation
+499,what is the degree of the polynomial equation   $h4 + 4h2 - 1= 0$ ,polynomial_equation
+500,What is the degree of the polynomial equation  $k^7 + k^3 - 2k + 1= 0$ ,polynomial_equation
+501,Does the equation  $2x^4 + 2x^3 + 10x = 11$   a polynomial equation,polynomial_equation
+502,Does the equation   $2a^{-3} + 3a2 + 5a - 3= 0$  a polynomial equation ,polynomial_equation
+503,Does the equation   $k^3 + 3k^2 + 9k - 3 = 0$  a polynomial equation ,polynomial_equation
+504,Does the equation   $p^2 + 3p + \frac{5}{p} = 0$  a polynomial equation ,polynomial_equation
+505,Does the equation  $\sqrt{x^7 + 3x^6 - 4x} = 0$  a polynomial equationnn,polynomial_equation
+506,Does the equation  $4x^5 - 2x^3 + 5x - \frac{1}{x}$   polynomial equation,polynomial_equation
+507,Does the equation  $15x = 0$  a polynomial equation,polynomial_equation
+508,What is the degree of the polynomial equation  $x^3 - 15x - 18 = 0$  ?,polynomial_equation
+509,What is the degree of the polynomial equation  $- 15x -18=0 $ ,polynomial_equation
+510,What is the degree of the polynomial equation  $3x^4 + 1 = 0$ ,polynomial_equation
+511,What is the degree of the polynomial equation  $-18x = 0$ ,polynomial_equation
+512,What is the degree of the polynomial equation  $x^6 - 9 = 0$ ,polynomial_equation
+513,What is the roots of the polynomial equation  $a+b = 3$ ,polynomial_equation
+514,What is the roots of the polynomial equation  $b^2 - b - 6 = 0$ ,polynomial_equation
+515,What is the roots of the polynomial equation  $(a+3)(a^2-4) = 0 $ ,polynomial_equation
+516,What is the roots of the polynomial equation  $(m+3)(2m + 1) (m-2) = 0$  ,polynomial_equation
+517,What is the roots of the polynomial equation  $(x - 1)^2 (x - 2) (x - 3) = 0$ ,polynomial_equation
+518,Find all the real roots of the polynomial equation  $(3x + 2) (x^2 - 25) = 0$ ,polynomial_equation
+519,Find all the real roots of the polynomial equation  $2x^3 - 3x^2 - 8x + 12 = 0$ ,polynomial_equation
+520,Find all the real roots of the polynomial equation  $3x^4 + 5x^3 - 28x^2 + 4x + 16 = 0$ ,polynomial_equation
+521,Find all the real roots of the polynomial equation  $x^5 - 2x^4 + x^3 - 2x^2 - 2x + 4 = 0$ ,polynomial_equation
+522,Find all the real roots of the polynomial equation  $x^4 - 4x^3 + 4x^2 - 36x - 45 = 0$ ,polynomial_equation
+523,Find all the real roots of the polynomial equation  $x^4 + 10x + 9 = 0$ ,polynomial_equation
+524,Find all the real roots f the polynomial equation  $x^3 + 9x^2 + 22x + 12 = 0$ ,polynomial_equation
+525,Find all the real roots of the following equation  $4x^3 - 18x^2 + 10x - 1 = 0$ ,polynomial_equation
+526,Every polynomial equation P(x) of  degree n has ____ complex root ,polynomial_equation
+527,An nth degree polynomial equation can have __________ real roots.,polynomial_equation
+528,The theorem that gives a list of possible rational roots of a polynomial equation is called: ___.,polynomial_equation
+529,"Every rational root of a polynomial equation is in the form  $\frac{p}{q}$  , where p is an integer factors of ___",polynomial_equation
+530,"Every rational root of a polynomial equation is in the form  $\frac{p}{q}$  ,where q is an integer factor of ___.",polynomial_equation
+531,Which of the following is NOT a polynomial equation?,polynomial_equation
+532,Which of the following is the degree of the polynomial equation  $x = 9$ ?,polynomial_equation
+533,What value of m will make  $2m + 1$  equal to zero?,polynomial_equation
+534,Find a quadratic polynomial with roots -1 and 2.,polynomial_equation
+535,"Find a cubic polynomial equation with roots -2, 2 and -4.",polynomial_equation
+536,"According to Rational Root Theorem, which of the following is a possible zero of the polynomial  $p(b)= 6b^3 - 3b^2 + 2b - 4$ ?",polynomial_equation
+537,"Using Rational Root Theorem, list all the possible rational roots of t the polynomial equation  $4x^4 + 31x^3 - 4x^2 - 89x + 22 = 0$ ",polynomial_equation
+538,"If 7 is a rational zero of the polynomial  $p(x) = 2x^3 - 14x^2 + x - 7$ , which of the following is NOT true?",polynomial_equation
+539,How many possible real roots does the polynomial equation  $4x^3 + 4x^2 - 31x + 5 = 0 $  have,polynomial_equation
+540,"If 4 is a root of  $x^2 - 3kx + 3k - 7 = 0$ , then the value of k is ___.",polynomial_equation
+541,Identify all real roots of  $4x^4 + 31x^3 - 4x^2 - 89x + 22 = 0$ .,polynomial_equation
+542,The volume of a rectangular solid is 750 cubic units. The width (w) is 7 units more than the height (h) and the length (l) is 1 unit more than 8 times the height. Which correctly represents the width of the solid?,polynomial_equation
+543,The volume of a rectangular solid is 750 cubic units. The width (w) is 7 units more than the height (h) and the length (l) is 1 unit more than 8 times the height. What is the working equation to find the dimensions of the solid?,polynomial_equation
+544,"In Philippine National High School, the length and the width of the building is  $(x+9)$  m and  $(x-4)$  m respectively. If its area is 500 $m^2$ , which of the following mathematical statements can show the relationship between the dimension of the school building?",polynomial_equation
+545,Find k so that the binomial $(x - 1)$ is a factor of  $-3x^4 + kx^3 + 6x^2 - 9x + 3$ .,polynomial_equation
+546,Find the value of b so that -2 is a root of  $3x^3 + bx^2 + 5x - 27 = 0$ .,polynomial_equation
+547,"Find a cubic polynomial equation with roots 2, -2, and 4.",polynomial_equation
+548,Which of the following has no rational roots: $x^4 +5x^2 + 4 = 0$  or  $x^3 + 4x^2 - 5 = 0$ ?,polynomial_equation
+549,Find three rational numbers such that their product is 210. The second number is 5 less than the first. The third number is 1 more than twice the first.,polynomial_equation
+550,What is the Greatest Common Factor of 24 and 54?,polynomials
+551,"What is the GCF of 20, 24, and 40? ",polynomials
+552,What is the GCF of $x^2$ and $x^9$,polynomials
+553,"What is the GCF of $xy^{10}$ , $x^4y^6$, $x^9y^9$ ,and $x^{10}y^{10}$",polynomials
+554,What are the complete factors of the polynomial $7x-7$,polynomials
+555,What are the complete factors of the polynomial $2x^6-12x^4$,polynomials
+556,Which of the following is a perfect square expression,polynomials
+557,"If one factor of the difference of two squares is $x + 2$, what is the other factor",polynomials
+558,What is the complete factored form of $z^2-16$,polynomials
+559,What is the complete factored form of the expression $y^4-49$,polynomials
+560,Which of the following polynomials has factors $\left(xy-1\right)\left(xy+1\right)$,polynomials
+561,Which of the following expressions is a perfect cube,polynomials
+562,Which of the following is the complete factored form of the cubic polynomial $x^3-8$ ,polynomials
+563,Factor completely: $27x^3+64y^3$,polynomials
+564,"Your classmate was asked to square $\left(2x-3\right)$, he answered $4x^2-9$. Is his answer is correct",polynomials
+565,How did you find the GCF of the numerical coefficients of each term,polynomials
+566,How did you find the GCF of the variables in each term,polynomials
+567,What did you do to the obtained GCF of the numerical coefficients and the GCF of the variables,polynomials
+568,How did you find the remaining factors,polynomials
+569,Write a polynomial factor: $7y^2-7p$,polynomials
+570,Write a polynomial factor: $18xy+3y$,polynomials
+571,Write a polynomial factor: $15t^3-15t^2+20t$,polynomials
+572,Write a polynomial factor: $17x^5-51x^4-34x$,polynomials
+573,Write a polynomial factor: $35x^5y^2+21x^4y+14x^3y^2$,polynomials
+574,"Which was easier: finding the remaining factor given the GCF, or finding the GCF given the other factor",polynomials
+575,What did you do to find the GCF given the remaining factors,polynomials
+576,Is 16 is a perfect square,polynomials
+577,Is 12 is a perfect square,polynomials
+578,Is 25 is a perfect square,polynomials
+579,Is $8x^2$ is a perfect square,polynomials
+580,Is $36y^4$ is a perfect square,polynomials
+581,Is 16 is not perfect square,polynomials
+582,Is 12 is not perfect square,polynomials
+583,Is 25 is not perfect square,polynomials
+584,Is $8x^2$ is not perfect square,polynomials
+585,Is $36y^4$ is not perfect square,polynomials
+586,Determine the product of each sum and difference of two terms: $\left(x+1\right)\left(x-1\right)$,polynomials
+587,Determine the product of each sum and difference of two terms: $\left(x+4\right)\left(x-4\right)$,polynomials
+588,Determine the product of each sum and difference of two terms: $\left(x+3\right)\left(x-3\right)$,polynomials
+589,Determine the product of each sum and difference of two terms: $\left(x+7\right)\left(x-7\right)$,polynomials
+590,Determine the product of each sum and difference of two terms: \left(x+9\right)\left(x-9\right),polynomials
+591,It is the concept that you must recall in order to use the factoring technique,polynomials
+592, Write $x^2-9$ in completely factored form,polynomials
+593,Write $16a^6-25b^2$  in completely factored form,polynomials
+594,Write $a^2b^4-81$ in completely factored form,polynomials
+595,Write $x^4-81$ in completely factored form,polynomials
+596,Write $3w^2-48$ in completely factored form,polynomials
+597,are numbers or expressions that can be expressed to the power of 3.  ,polynomials
+598,Factor $y^3-27$,polynomials
+599,Factor $8x^3-64$,polynomials
+600,Factor $27m^4-8mn^6$,polynomials
+601,Factor $1+8k^3$,polynomials
+602,Factor $5h+40hk^3$,polynomials
+603,What is the process of finding the factors of an expression which is the reverse process of multiplication,polynomials
+604,What is the Greatest Common Factor of 12 and 24,polynomials
+605,Which of the following pair of numbers has a GCF of 6,polynomials
+606,What is the GCF of $2a^3$ and $a^6$,polynomials
+607,What is the GCF of the expression $4x^4 + 6x$,polynomials
+608,"If one factor of $4x^2 + 6$ is 2, what is the other factor",polynomials
+609,"Using the pattern for factoring the sum of cubes, we know that factoring gives $8+b^3$",polynomials
+610,What is the complete factored form of $9x^3-64y^3$,polynomials
+611,What is the complete factored form of $10+270y^3$,polynomials
+612,Factor completely: $27a^3b^2-9a^2b$,polynomials
+613,Factor completely: $12^3-27x$,polynomials
+614,Factor completely: $f^3m-g^6n$,polynomials
+615,What is the remainder when $x^4-3x^2+x-2$ is divided by $x+1$,polynomials
+616,"In the given polynomial $2x^4 - 16x^3 + 8x^2 + 4x - 12 = 0$, identify the constant term",polynomials
+617,What is the value of p in the expression $3x^2-px+6$ that leaves a remainder of 3 when divided by $x-3$,polynomials
+618,What is the leading coefficient of the polynomial $3x^3-6x^2+9x-6=0$,polynomials
+619,Which of the following is the remainder when the polynomial $x^2-3x+1$ is divided by a binomial $\left(x-5\right)$,polynomials
+620,"Aside from the $\left(x-2\right)$ and $\left(x+1\right)$, what is the other factor of the polynomial $x^3+2x^2-5x-6$",polynomials
+621,How many possible rational roots does the polynomial $p\left(x\right)=2x^3-8x^2+2x-1$ have,polynomials
+622,When the polynomial $p\left(x\right)$ was divided by the factor of $x - 3$ the result was $x+\frac{5}{x-3}$ Which of the following is the value of $p\left(7\right)$,polynomials
+623,What are the factors of the polynomial $p\left(x\right)=3x^3-4x^2-5x+2$,polynomials
+624,Which of the following binomials is a factor of the quadratic $x^2-5x+36$,polynomials
+625,Which of the following linear expression is a factor of the cubic polynomial $x^3+9x^2+16x-12$,polynomials
+626,Let $p\left(x\right)=2x^4-3x^3+4x-5$. What is the value of  $p\left(1\right)$,polynomials
+627,Which expression is a factor of the following polynomial $p\left(x\right)=p\left(x\right)=x^3-x^2-24x-36$,polynomials
+628,Which example correctly illustrates the factor theorem,polynomials
+629,Find the remainder when $P\left(x\right)=\left(x^3-2x^2-5x-8\right)$ divided by $\left(x-2\right)$,polynomials
+630,Find the remainder when $P\left(x\right)=P\left(x\right)=2x^2-4x+6$ is divided by $\left(x+1\right)$,polynomials
+631,"Given that $\left(x+2\right)$ is a factor of the polynomial, $P\left(x\right)=x^3-px^2-x+30$ find p",polynomials
+632,is $x=9$ a root of the polynomial equation $2x^4-17x^3-9x^2=0$,polynomials
+633,provides a complete list of possible rational roots of the polynomial equation $a_nx^n+a_2x^2+ … +a_2x^2+a_1x+a_0=0$ where a; coefficients are integers,polynomials
+634,List all possible rational roots of $x^3+x^2-4x-4=0$,polynomials
+635,Find all the roots of $y=x^4+5x^3+5x^2-5x-6$ ,polynomials
+636,Find the remainder using Remainder Theorem. $p\left(x\right)=x^3+2x^2-15x-36$ at $x=-3$,polynomials
+637,Find the remainder using Remainder Theorem. $p\left(x\right)=x^4+3x^3-16x^2+2x-7$ at $x=3$,polynomials
+638,Find the remainder using Remainder Theorem. $p\left(a\right)=a^3+5a^2+10a+22$ at $a=-2$,polynomials
+639,Find the remainder using Remainder Theorem. $p\left(x\right)=x^5-15x^3-58x^2+12x+12$ at $x=7$,polynomials
+640,Find the remainder using Remainder Theorem. $p\left(x\right)=x^3+x^2-5x-6$ at $x=2$,polynomials
+641,Find the remainder using Remainder Theorem. $p\left(x\right)=x^4+5x^3+11x^2+25x+29$ at $x=-3$,polynomials
+642,Find the remainder using Remainder Theorem. $p\left(x\right)=x^4+11x^3+22x^2+24x+12$ at $x=-1$,polynomials
+643,Find the remainder using Remainder Theorem. $p\left(b\right)=6b^4+12b^3+22b^2+13b+3$ at $b=-3$,polynomials
+644,Find the remainder using Remainder Theorem. $p\left(v\right)=6v^3+42v^2-50v-20$ at $v=-8$,polynomials
+645,Find the remainder using Remainder Theorem. $p\left(x\right)=4x^3-9x^2+8x+3$ at $x=2$,polynomials
+646,"Using Factor Theorem, determine if the given binomial is a factor of the polynomial: $\left(x^4-x^3-24\right)\div\left(x+2\right)$",polynomials
+647,"Using Factor Theorem, determine if the given binomial is a factor of the polynomial: $\left(x^5+x^4-2x^3+2x+4\right)\div\left(x+2\right)$",polynomials
+648,"Using Factor Theorem, determine if the given binomial is a factor of the polynomial: $\left(5x^4-23x^3+20x^2-32\right)\div\left(x-4\right)$",polynomials
+649,"Using Factor Theorem, determine if the given binomial is a factor of the polynomial:$ \left(n^3+2n^2-25n-50\right)\div\left(n+5\right)$",polynomials
+650,"Using Factor Theorem, determine if the given binomial is a factor of the polynomial:$ \left(x^4-2x^2+x-66\right)\div\left(x-3\right)$",polynomials
+651,"Using Factor Theorem, determine if the given binomial is a factor of the polynomial:$ \left(n^4-16n^3+18n^2-128\right)\div\left(n+2\right)$",polynomials
+652,"Using Factor Theorem, determine if the given binomial is a factor of the polynomial: $\left(n^4-3n^3+4n^2+4\right)\div\left(n-2\right)$",polynomials
+653,"Using Factor Theorem, determine if the given binomial is a factor of the polynomial: $\left(5k^3-38k^2+19k+14\right)\div\left(5k+2\right)$",polynomials
+654,"Using Factor Theorem, determine if the given binomial is a factor of the polynomial: $\left(p^3-6p^2+16p-21\right)\div\left(p-3\right)$",polynomials
+655,"Using Factor Theorem, determine if the given binomial is a factor of the polynomial: $\left(x^5+3x^2+2x^4+5x+10\right)\div\left(x+2\right)$",polynomials
+656,What is the remainder when $4x^3-3x^2+2x-4$ is divided by x+1,polynomials
+657,"Use the Remainder Theorem, what is the remainder when $x^4-3x^2+4x-12$ is divided by x-3",polynomials
+658,What number should be added to $x^2+5$  so that the resulting polynomial leaves the remainder 3 when divided by x+3,polynomials
+659,"consider the polynomial $p\left(x\right)=x^3-4x^2+ax-3$, find all the factors of $p\left(x\right)$",polynomials
+660,What is the other factor of $p\left(x\right)=x^3+3x^2-16x-48$ at x-3,polynomials
+661,In polynomial $3x^6+7x^4+2x$ what is the leading coefficient,polynomials
+662,"Given that x − 2 is a factor of the polynomial $x^3-kx^2-24x+28$, find k of this polynomial",polynomials
+663,"Consider the polynomial $p\left(x\right)=x^3-4x^2+ax-3$, find all the factors of $p\left(x\right)$",polynomials
+664,What is the other roots $x^4-x^3-7x^2+13x-6=0$,polynomials
+665,"In the equation, $x^3+6x^2+10x+3=0$ what is the only rational root",polynomials
+666,The only way to find the remainder of a polynomial is synthetic division,polynomials
+667,"if $P\left(r\right)=0$, then $\left(x-3\right)$ is a factor of $P\left(x\right)$",polynomials
+668, The only rational root of the equation $p\left(x\right)=3x^3+9x^2+4x+12$ is -3,polynomials
+669,The polynomial $p\left(x\right)=2x^3+9x^2+19x+15$ has a rational root of $-\frac{3}{2}$,polynomials
+670,One of the factor of $x^3-9x^2=0$ is $\left(x-9\right)$,polynomials
+671,"The dimensions of a rectangular metal box are 3cm, 5cm, and 8cm. If the first two dimensions are increased by the same number of centimeters, while the third dimension remains the same, the new volume is $34cm^3$ more than the original volume. What is the new dimension of the enlarged rectangular metal box?",polynomials
+672,Find the quotient and remainder (if any) of the polynomial using long division: $x^3-2x^2+5x-4\div x+1$ ,polynomials
+673,Find the quotient and remainder (if any) of the polynomial using long division: $x^3+7x^2+5x-10 \div x+5$ ,polynomials
+674,Find the quotient and remainder (if any) of the polynomial using long division: $4x^3+15x^2+2x-21 \div x+3$ ,polynomials
+675,Find the quotient and remainder (if any) of the polynomial using long division: $4x^4+22x^3-2x-12x^2+18 \div x+6$ ,polynomials
+676,Find the quotient and remainder (if any) of the polynomial using long division: $x^5-3x^4-2x^3+6x^2+5x-15 \div x-3$ ,polynomials
+677,Use long division to find the quotient and remainder (if any) when the polynomial is divided by the polynomial: $(x^3-7x^2+2x+4) \div (x+3)$ ,polynomials
+678,Use long division to find the quotient and remainder (if any) when the polynomial is divided by the polynomial: $(x^3-4x^2-5x+6) \div (x+3)$ ,polynomials
+679,Use long division to find the quotient and remainder (if any) when the polynomial is divided by the polynomial: $(x^3-3x^2-25x+12) \div (x+4)$ ,polynomials
+680,Use long division to find the quotient and remainder (if any) when the polynomial is divided by the polynomial: $(5x^3-6x^2-17x-9) \div (x-7)$ ,polynomials
+681,Use long division to find the quotient and remainder (if any) when the polynomial is divided by the polynomial: $(x^4+4x^3-23x^2+10x-12) \div (x-3)$ ,polynomials
+682,Use long division to find the quotient and remainder (if any) when the polynomial is divided by the polynomial: $(x^4-7x^3+2x^2-15x-4) \div (x+4)$ ,polynomials
+683,Use long division to find the quotient and remainder (if any) when the polynomial is divided by the polynomial: $(3x^4+4x^3-7x+22) \div (x+8)$ ,polynomials
+684,Use long division to find the quotient and remainder (if any) when the polynomial is divided by the polynomial: $(x^5+x^3+x+1) \div (x+1)$ ,polynomials
+685,Use long division to find the quotient and remainder (if any) when the polynomial is divided by the polynomial: $(4x^3-4x^2-11x+6) \div (x+3)$ ,polynomials
+686,Use long division to find the quotient and remainder (if any) when the polynomial is divided by the polynomial: $(x^3-15x^2+60x-46) \div (x-2)$ ,polynomials
+687,"Using synthetic division, find the quotient and remainder (if any) when the polynomial is divided by the polynomial: $(5x^3+3x^2-2x+4) \div (x+1)$ ",polynomials
+688,"Using synthetic division, find the quotient and remainder (if any) when the polynomial is divided by the polynomial: $(2x^2+12x+25) \div (x+4)$ ",polynomials
+689,"Using synthetic division, find the quotient and remainder (if any) when the polynomial is divided by the polynomial: $(x^2+4x^2+3x+9) \div (x+2)$ ",polynomials
+690,"Using synthetic division, find the quotient and remainder (if any) when the polynomial is divided by the polynomial: $(5x^3+10x^2+50) \div (x+3)$ ",polynomials
+691,"Using synthetic division, find the quotient and remainder (if any) when the polynomial is divided by the polynomial: $(x^3-6x^2+4x+17) \div (x-4)$ ",polynomials
+692,"Using synthetic division, find the quotient and remainder (if any) when the polynomial is divided by the polynomial: $(2x^3-3x^2+x+2) \div (x-3)$ ",polynomials
+693,"Using synthetic division, find the quotient and remainder (if any) when the polynomial is divided by the polynomial: $(5x^3-2x^2-9x-16) \div (x-5)$ ",polynomials
+694,"Using synthetic division, find the quotient and remainder (if any) when the polynomial is divided by the polynomial: $(x^4+5x^3-2x^2-3) \div (x-2)$ ",polynomials
+695,"Using synthetic division, find the quotient and remainder (if any) when the polynomial is divided by the polynomial: $(2x^4-x^2-x-21) \div (x+4)$ ",polynomials
+696,"Using synthetic division, find the quotient and remainder (if any) when the polynomial is divided by the polynomial: $(3x^3-4x+5) \div (x-6)$ ",polynomials
+697,"Using synthetic division, find the quotient and remainder (if any): $(3x^4+4x^3+3x^2+5x-6) \div (x+1)$ ",polynomials
+698,"Using synthetic division, find the quotient and remainder (if any): $(5x^4-6x^3+2x^2+2) \div (x-2)$ ",polynomials
+699,"Using synthetic division, find the quotient and remainder (if any): $(-4x^3-10x^2+5x-7) \div (x-3)$ ",polynomials
+700,"Using synthetic division, find the quotient and remainder (if any): $(x^5+2x^4-21x^3+5x^2-4x) \div (x-4)$ ",polynomials
+701,"Using synthetic division, find the quotient and remainder (if any): $(x^6-8x^4-10x^2+10) \div (x-3)$ ",polynomials
+702,"Using synthetic division, find the quotient and remainder (if any): $(4x^4-6x^3+2x^2+x+3) \div (2x+1)$ ",polynomials
+703,"Using synthetic division, find the quotient and remainder (if any): $(18x^3-3x^2+12x+3) \div (3x-2)$ ",polynomials
+704,"Using synthetic division, find the quotient and remainder (if any): $(x^4-x^3-7x^2+x+6) \div [(x-1)(x+1)]$ ",polynomials
+705,"Using synthetic division, find the quotient and remainder (if any): $(2x^3+x^2-2x-1) \div (2x^2-x-1)$  hint: factor the divisor first",polynomials
+706,"Using synthetic division, find the quotient and remainder (if any): $(x^3-kx^2+kx+2-k^2) \div (x-k)$ ",polynomials
+707,Find the remainder when $f(x)=x^3+6x^2-7x-8$  is divided by $x-2$ ,polynomials
+708,Find the remainder when $g(x)=2x^4+5x^3-2x-8$  is divided by $x+3$ ,polynomials
+709,Find the remainder when $h(x)=4x ^ {25} -4x^{17} +5x^3-3$  is divided by $(x+1)$ ,polynomials
+710,Find the remainder when $f(x)=4x^3-6x^2-4$  is divided by $(2x-4)$ ,polynomials
+711,"Use the remainder theorem to find the remainder when the first expression (polynomial) is divided by the second expression (binomial): $x^2-5x+6$, $x-2$ ",polynomials
+712,"Use the remainder theorem to find the remainder when the first expression (polynomial) is divided by the second expression (binomial): $5x^2+4x-1$ ,$x+1$ ",polynomials
+713,"Use the remainder theorem to find the remainder when the first expression (polynomial) is divided by the second expression (binomial): $3x^2-5x-16$, $x-4$ ",polynomials
+714,"Use the remainder theorem to find the remainder when the first expression (polynomial) is divided by the second expression (binomial): $x^3-5x^2+7x+7$ , $x+1$ ",polynomials
+715,"Use the remainder theorem to find the remainder when the first expression (polynomial) is divided by the second expression (binomial): $2x^3-5x^3+7x+3$ , $x+3$ ",polynomials
+716,"Use the remainder theorem to find the remainder when the first expression (polynomial) is divided by the second expression (binomial): $x^3+6x^2+11x+6$ , $x+3$ ",polynomials
+717,"Use the remainder theorem to find the remainder when the first expression (polynomial) is divided by the second expression (binomial): $2x^3+12x^3+22x+12$ , $x+12$ ",polynomials
+718,"Use the remainder theorem to find the remainder when the first expression (polynomial) is divided by the second expression (binomial): $3x^3+6x+9$ , $x+3$ ",polynomials
+719,"Use the remainder theorem to find the remainder when the first expression (polynomial) is divided by the second expression (binomial): $x^3+12x^2+5x-26$ ,$ x+3$ ",polynomials
+720,"Use the remainder theorem to find the remainder when the first expression (polynomial) is divided by the second expression (binomial): $4x^3+7x^2+3x+5$ , $x+5$ ",polynomials
+721,"Use the remainder theorem to find the remainder when the first expression (polynomial) is divided by the second expression (binomial): $2y^3-3y^2-13y+5$ , $y-3$ ",polynomials
+722,"Use the remainder theorem to find the remainder when the first expression (polynomial) is divided by the second expression (binomial): $4x^3+4x^2-7x+22$ , $x-6$ ",polynomials
+723,"Use the remainder theorem to find the remainder when the first expression (polynomial) is divided by the second expression (binomial): $m^3-15m^2+60m-46$ , $m-7$ ",polynomials
+724,"Use the remainder theorem to find the remainder when the first expression (polynomial) is divided by the second expression (binomial): $2h^3+5h^2-32h-80$ , $h+4$ ",polynomials
+725,"Use the remainder theorem to find the remainder when the first expression (polynomial) is divided by the second expression (binomial): $6d^3+12d^2+d-20$ , $d+5$ ",polynomials
+726,"Use the remainder theorem to find the remainder when the first expression (polynomial) is divided by the second expression (binomial): $5r^3-6r^2-17r-9$ , $r-7$ ",polynomials
+727,"Use the remainder theorem to find the remainder when the first expression (polynomial) is divided by the second expression (binomial): $5x^3-4x^2+18x+25$ , $x-5$ ",polynomials
+728,"Use the remainder theorem to find the remainder when the first expression (polynomial) is divided by the second expression (binomial): $3m^4-10m^3-10m^2-m+20$ , $m-2$ ",polynomials
+729,"Use the remainder theorem to find the remainder when the first expression (polynomial) is divided by the second expression (binomial): $4d^3-14d^2-10d+8$ , $d-1$ ",polynomials
+730,"Use the remainder theorem to find the remainder when the first expression (polynomial) is divided by the second expression (binomial): $8x^3-8x^2-22x+12$ , $x-1$ ",polynomials
+731,"Determine if the binomial is a factor of the given polynomial: $x^2-5x+6$ , $x-3$ ",polynomials
+732,"Determine if the binomial is a factor of the given polynomial: $x^3+3x^2+5x+3$ , $x+1$ ",polynomials
+733,"Determine if the binomial is a factor of the given polynomial: $x^3+3x^2-4x+2$ , $x-1$ ",polynomials
+734,"Determine if the binomial is a factor of the given polynomial: $x^{100}-1$ , $x+1$ ",polynomials
+735,"Determine if the binomial is a factor of the given polynomial: $x^3-4x^2+2x+1$ , $x-3$ ",polynomials
+736,"Determine if the binomial is a factor of the given polynomial: $x^2-5x+6$ , $x-2$ ",polynomials
+737,"Determine if the binomial is a factor of the given polynomial: $5x^2+4x-1$ , $x+1$ ",polynomials
+738,"Determine if the binomial is a factor of the given polynomial: $3x^2-5x-16$ , $x-4$ ",polynomials
+739,"Determine if the binomial is a factor of the given polynomial: $x^3-5x^2+7x+7$ , $x+1$ ",polynomials
+740,"Determine if the binomial is a factor of the given polynomial: $2x^3-5x^3+7x+3$ , $x+3$ ",polynomials
+741,"Determine if the binomial is a factor of the given polynomial: $x^3+6x^2+11x+6$ , $x+3$ ",polynomials
+742,"Determine if the binomial is a factor of the given polynomial: $2x^3+12x^3+22x+12$ , $x+12$ ",polynomials
+743,"Determine if the binomial is a factor of the given polynomial: $3x^3+6x+9$ , $x+3$ ",polynomials
+744,"Determine if the binomial is a factor of the given polynomial: $x^3+12x^2+5x-26$ , $x+3$ ",polynomials
+745,"Determine if the binomial is a factor of the given polynomial: $4x^3+7x^2+3x+5$ , $x+5$ ",polynomials
+746,"Determine if the binomial is a factor of the given polynomial: $2y^3-3y^2-13y+5$ , $y-3$ ",polynomials
+747,"Determine if the binomial is a factor of the given polynomial: $4x^3+4x^2-7x+22$ , $x-6$ ",polynomials
+748,"Determine if the binomial is a factor of the given polynomial: $m^3-15m^2+60m-46$ , $m-7$ ",polynomials
+749,"Determine if the binomial is a factor of the given polynomial: $2h^3+5h^2-32h-80$ , $h+4$ ",polynomials
+750,"Determine if the binomial is a factor of the given polynomial: $6d^3+12d^2+d-20$ , $d+5$ ",polynomials
+751,"Determine if the binomial is a factor of the given polynomial: $5r^3-6r^2-17r-9$ , $r-7$ ",polynomials
+752,"Determine if the binomial is a factor of the given polynomial: $5x^3-4x^2+18x+25$ , $x-5$ ",polynomials
+753,"Determine if the binomial is a factor of the given polynomial: $3m^4-10m^3-10m^2-m+20$ , $m-2$ ",polynomials
+754,"Determine if the binomial is a factor of the given polynomial: $4d^3-14d^2-10d+8$ , $d-1$ ",polynomials
+755,"Determine if the binomial is a factor of the given polynomial: $8x^3-8x^2-22x+12$ , $x-1$ ",polynomials
+756,Divide $x^3+6x^2-7x-8$  by $x-2$ ,polynomials
+757,Divide $2x^4+5x^3-2x-8$  by $x+3$ ,polynomials
+758,Divide $6x^2-4x+3$  by $2x-4$ ,polynomials
+759,Divide $9x^3+6x^2-3x-2$  by $3x+2$ ,polynomials
+760,Divide $4x^3-6x^2-4$  by $2x-4$ ,polynomials
+761,Which of the following represents a polynomial equation? ,polynomial_equation
+762,How many terms does the   $x^3-3+2x^2=0 $  have,polynomial_equation
+763,"which of the following does not belong to the group? cubic equation, quadratic equation, linear equation, quadratic inequality",polynomial_equation
+764,How would you rewrite   $(x+2)(x+1)=0 $  in standard form?,polynomial_equation
+765,Which of the following are the roots of a polynomial equation   $x(x+3)(x+4) $ ?,polynomial_equation
+766,Which of the following polynomials can be easily solve by applying the zero product property?,polynomial_equation
+767,What are the roots of polynomial equation   $(x+1)(x+2)=0 $ ?,polynomial_equation
+768,"Which of the following has three terms?   $x+1=0 $ ,   $(x+1)(x+2)=0 $ ,   $x^2(x+1)=0 $ ,   $x^2(x^2+2)=0 $ ",polynomial_equation
+769,"Given the polynomial   $(x+5)(x-4)=0 $ , how may negative real roots does it have?",polynomial_equation
+770,Which of the following equations is the same as   $(x+1)(x+1)=0 $ ?,polynomial_equation
+771,What type of equation is   $x^2+5x+3=0 $ ?,polynomial_equation
+772,Which theorem states that any polynomial of degree n has roots?,polynomial_equation
+773,Which of the following has a multiplicity of 3 roots? ,polynomial_equation
+774,Which of the following mathematicians introduced the rule on how to count the number of positive and negative real roots every polynomial has.,polynomial_equation
+775,Which of the following represents a polynomial equation?,polynomial_equation
+776,Which of the following is NOT a polynomial?,polynomial_equation
+777,"From the equation   $x^3-4x^2+5x+3=0 $ , what is the highest exponent of the polynomial?",polynomial_equation
+778,How many terms does   $3x^4-4+2x^2-2x=0 $  have? ,polynomial_equation
+779,Which of the following polynomial equation is in standard form?,polynomial_equation
+780,Which of the following is the leading coefficient of   $3x(x^2-36)=0 $ ?,polynomial_equation
+781,Which of the following is NOT an example of a polynomial?,polynomial_equation
+782,Which of the following mathematician discovered the relationship between the number of roots which are the same with the number of the degree of polynomial equation?,polynomial_equation
+783,What do you call thiss equation   $x^2+5x+3=0 $ ?,polynomial_equation
+784,What is the constant term of polynomial   $4x^3+4x^2-5x+4=0 $ ? ,polynomial_equation
+785,"In a polynomial equation   $4x^3+3x^2-2x+3=0 $ , what is the leading term?",polynomial_equation
+786,Which is NOT TRUE about a polynomial?,polynomial_equation
+787,Which of the following describes an expression   $x^3+x^2+\frac{3}{4}x+25=0 $ ?,polynomial_equation
+788,Determine whether the expression is a polynomial or NOT :   $x^2 +2x+1=0 $ ,polynomial_equation
+789,Determine whether the expression is a polynomial or NOT :    $5x^3+\frac{5}{x}=0 $ ,polynomial_equation
+790,Determine whether the expression is a polynomial or NOT :   $5x^{-2}+5=0 $ ,polynomial_equation
+791,Determine whether the expression is a polynomial or NOT :   $10^x+2x+1=0 $ ,polynomial_equation
+792,Determine whether the expression is a polynomial or NOT :   $-x^2+10=0 $ ,polynomial_equation
+793,Determine whether the expression is a polynomial or NOT :   $\frac{1}{2}x^2-1=0  $ ,polynomial_equation
+794,Determine whether the expression is a polynomial or NOT :   $\frac{3}{4}x^4y^3-21x=0 $ ,polynomial_equation
+795,Determine whether the expression is a polynomial or NOT :  $9+\sqrt{x}-3=0 $ ,polynomial_equation
+796,Determine whether the expression is a polynomial or NOT :   $\sqrt{y}+2=0 $ ,polynomial_equation
+797,Determine whether the expression is a polynomial or NOT :   $\frac{1}{4}x^3+2x=0 $ ,polynomial_equation
+798,Determine whether the expression is a polynomial or NOT :   $2x^2+3x+1=0 $ ,polynomial_equation
+799,Determine whether the expression is a polynomial or NOT :   $x^2+\sqrt{x} -8=0 $ ,polynomial_equation
+800,Determine whether the expression is a polynomial or NOT :   $\frac{1}{4}x^3=0 $ ,polynomial_equation
+801,Determine whether the expression is a polynomial or NOT :   $\frac{1}{x}-3=0 $ ,polynomial_equation
+802,Determine whether the expression is a polynomial or NOT :   $x^{20} -1=0 $ ,polynomial_equation
+803,Mr. Opalla one of the farmers in the Impasugong would like to enclose his rectangular garden whose length is 4 more than twice its width. The area of the garden is   $240m^2 $  What would be the length of the garden?,polynomial_equation
+804, Mr. Opalla one of the farmers in the Impasugong would like to enclose his rectangular garden whose length is 4 more than twice its width. The area of the garden is   $240m^2 $ . What mathematical sentence would representthe width of the garden?,polynomial_equation
+805,Mr. Opalla one of the farmers in the Impasugong would like to enclose his rectangular garden whose length is 4 more than twice its width. The area of the garden is   $240m^2 $ . What equation will you use in finding the dimensions of the garden?,polynomial_equation
+806, Mr. Opalla one of the farmers in the Impasugong would like to enclose his rectangular garden whose length is 4 more than twice its width. The area of the garden is   $240m^2 $ . Which of the following startegies is appropriate in finding the dimesnions of the garden?,polynomial_equation
+807,What is the standard form of the polynomial equation   $\frac{1}{2}x^2-x+2=0 $ ,polynomial_equation
+808,What is the standard form of the polynomial equation   $3x^2+5x^3+3x^4-x+1=0 $ ,polynomial_equation
+809,What is the standard form of the polynomial equation   $2x^2+x^4+4x+1=0 $ ,polynomial_equation
+810,What is the standard form of the polynomial equation   $-x^2+5x-10=0 $ ,polynomial_equation
+811,What is the standard form of the polynomial equation   $6x-2x^2+3x^4+2=0 $ ,polynomial_equation
+812,A ___ is a monomial or a sum of monomials.,polynomial_equation
+813,The monomials that make up the polynomials are called the _____. ,polynomial_equation
+814,"The _____ is the sum of the exponnts of its leading/first ter, variables.",polynomial_equation
+815,The degree of the polynomial is the same with the ____ according to Karl Friedrich Gauss (1777-1895),polynomial_equation
+816,An equation which has only one variable term is ____. ,polynomial_equation
+817,Is the equation a polynomial   $\sqrt{x}+3=0 $ ,polynomial_equation
+818,Is the equation a polynomial   $x^4 - 3x^3=0 $ ,polynomial_equation
+819,Find the zeros of the following function: $f(x)=x^2-7x+12 $ ,polynomial_equation
+820,Find the zeros of the following function:$f(x)=2x^2+5x-4 $ ,polynomial_equation
+821,Find the zeros of the following function: $f(x)=x^3-3x^2+2x-6 $ ,polynomial_equation
+822,Find the zeros of the following polynomial function: $f(x)=2x^3+11x^2+17x+6 $ ,polynomial_equation
+823,Find the zeros of the following function: $f(x)=x^3-2x^2-4x+8 $ ,polynomial_equation
+824,Find the zeros of the following function: $f(x)=x^3-5x^2+4x+6 $ ,polynomial_equation
+825,"Find the zero of the function. Indicate the multiplicity, if any, of the zeros: $f(x)=(x-1)(x^2-4) $ ",polynomial_equation
+826,"Find the zero of the function. Indicate the multiplicity, if any, of the zeros: $f(x)=(x-3)^3(x^2-9) $ ",polynomial_equation
+827,"Find the zero of the function. Indicate the multiplicity, if any, of the zeros: $f(x)=x^2(x^2-3x-10) $ ",polynomial_equation
+828,"Find the zero of the function. Indicate the multiplicity, if any, of the zeros: $f(x)=(x+2)^2(x-2)^3(2x^2-5x-12) $ ",polynomial_equation
+829,"Find the zero of the function. Indicate the multiplicity, if any, of the zeros: $f(x)=(x^2-25)(x^2+8x+15) $ ",polynomial_equation
+830,"Find the zero of the function. Indicate the multiplicity, if any, of the zeros: $f(x)=(x^2-9)(x^2-4)(6x^2-4x-10) $ ",polynomial_equation
+831,"Find the zero of the function. Indicate the multiplicity, if any, of the zeros: $f(x)=(x^2-81)^5 $ ",polynomial_equation
+832,"Find the zero of the function. Indicate the multiplicity, if any, of the zeros: $f(x)=(4x^2-1)^2(x^2-16) $ ",polynomial_equation
+833,"Find the zero of the function. Indicate the multiplicity, if any, of the zeros: $f(x)=x^4(9x^2-25)(12x^2-28x+15) $ ",polynomial_equation
+834,"Find the zero of the function. Indicate the multiplicity, if any, of the zeros: $f(x)=(x-1)^3(x^2-36)(x^2-64) $ ",polynomial_equation
+835,Find all rational zeros of the following polynomial function: $f(x)=x^3-x^2-8x+12 $ ,polynomial_equation
+836,Find all rational zeros of the following polynomial function: $f(x)=x^3+4x^2-4x-16 $ ,polynomial_equation
+837,Find all rational zeros of the following polynomial function: $f(x)=x^3-5x^2-2x+24 $ ,polynomial_equation
+838,Find all rational zeros of the following polynomial function: $f(x)=x^3+x^2-4x-4 $ ,polynomial_equation
+839,Find all rational zeros of the following polynomial function: $f(x)=x^4-4x^3-7x^2+34x+24 $ ,polynomial_equation
+840,Determine the zeros of the polynomial function: $f(x)=x^3-5x^2+4x+20 $ ,polynomial_equation
+841,Determine the zeros of the polynomial function: $f(x)=x^3-4x^2-3x+2 $ ,polynomial_equation
+842,Determine the zeros of the polynomial function: $f(x)=x^3+x^2-101x+99 $ ,polynomial_equation
+843,Determine the zeros of the polynomial function: $f(x)=x^4+2x^2-99 $ ,polynomial_equation
+844,Determine the zeros of the polynomial function: $f(x)=x^3-11x^2-36x+96 $ ,polynomial_equation
+845,"Solve -3*h**2/2 - 24*h - 45/2 = 0 for h.
+",polynomial_equation
+846,"Factor -n**2/3 - 25*n - 536/3.
+",polynomial_equation
+847,"Let c**3/9 - 11*c**2/3 + 35*c - 75 = 0. What is c?
+",polynomial_equation
+848,"What is f in -87616*f**2 - 1776*f - 9 = 0?
+",polynomial_equation
+849,"Find s such that 9*s**4 - 8958*s**3 - 14952*s**2 - 2994*s + 2991 = 0.
+",polynomial_equation
+850,"Factor -4*a**2/9 - 184*a/9 + 800/9.
+",polynomial_equation
+851,"Factor -a**3/4 + 9*a**2/4 + 210*a - 3100.
+",polynomial_equation
+852,"Factor 54*a**3 + 483*a**2 + 405*a - 24.
+",polynomial_equation
+853,"Factor 5*q**3 - 295*q**2 - 605*q - 305.
+",polynomial_equation
+854,"What is o in -5*o**5 - 65*o**4 - 170*o**3 + 310*o**2 + 175*o - 245 = 0?
+",polynomial_equation
+855,"Suppose 15*h**3 - 512*h**2 + 4403*h - 578 = 0. What is h?
+",polynomial_equation
+856,"Find o such that o**5/3 - 10*o**3/3 + 3*o = 0.
+",polynomial_equation
+857,"Factor g**3 - 1043*g**2 - 2090*g.
+",polynomial_equation
+858,"Solve -5*a**2 + 19690*a - 19384805 = 0.
+",polynomial_equation
+859,"Factor j**2 - 359*j - 360.
+",polynomial_equation
+860,"Find u, given that -3*u**3/2 - 51*u**2 - 867*u/2 = 0.
+",polynomial_equation
+861,"Factor -2*u**2 + 54*u - 100.
+",polynomial_equation
+862,"Factor -o**3/9 + 7*o**2/9 + 40*o/9 + 44/9.
+",polynomial_equation
+863,"Determine l so that -2156*l**5 + 6132*l**4 - 4152*l**3 + 1072*l**2 - 96*l = 0.
+",polynomial_equation
+864,"Factor -2*p**3/13 - 48*p**2/13 + 102*p/13 - 4.
+",polynomial_equation
+865,"Solve 56*s**5/3 - 122*s**4 + 896*s**3/3 - 334*s**2 + 488*s/3 - 24 = 0.
+",polynomial_equation
+866,"Let -2*u**2/3 + 74*u/3 - 140 = 0. Calculate u.
+",polynomial_equation
+867,"What is f in -2*f**4 - 56*f**3 - 288*f**2 - 544*f - 352 = 0?
+",polynomial_equation
+868,"Factor 3*u**3/4 + 3*u**2 - 9*u/4 - 27/2.
+",polynomial_equation
+869,"Find t, given that -2*t**2/7 - 3246*t/7 - 3244/7 = 0.
+",polynomial_equation
+870,"Factor 5*l**2 - 645*l.
+",polynomial_equation
+871,"Factor 4*o**2 - 3504*o + 6992.
+",polynomial_equation
+872,"Let 5*m**4 - 25*m**3 + 40*m**2 - 20*m = 0. Calculate m.
+",polynomial_equation
+873,"Factor 3*a**4/2 - 303*a**3/2 - 1980*a**2 - 6102*a.
+",polynomial_equation
+874,"Factor -8*j**3/3 - 32*j**2 - 110*j - 350/3.
+",polynomial_equation
+875,"What is t in -2*t**4/5 + 296*t**3/5 - 10952*t**2/5 = 0?
+",polynomial_equation
+876,"Factor 2*f**2/7 - 2683*f/7 + 1341/7.
+",polynomial_equation
+877,"Find m, given that 3*m**4/8 - 57*m**3/2 - 219*m**2/4 + 45315*m/2 + 1896075/8 = 0.
+",polynomial_equation
+878,"Factor 3*a**5/7 + 12*a**4/7 + 9*a**3/7.
+",polynomial_equation
+879,"Factor -2*q**2 - 13456*q - 22632992.
+",polynomial_equation
+880,"Factor -2*p**2/7 - 2104*p/7 - 553352/7.
+",polynomial_equation
+881,"Factor 3*z**5 - 24*z**4 + 63*z**3 - 66*z**2 + 24*z.
+",polynomial_equation
+882,"What is s in -2*s**2 + 2 = 0?
+",polynomial_equation
+883,"Factor 2*l**2 + 232*l - 472.
+",polynomial_equation
+884,"Factor -t**5 - 65*t**4 - 1150*t**3 - 3070*t**2 - 2945*t - 961.
+",polynomial_equation
+885,"Factor -3*y**3 - 72*y**2 + 561*y + 630.
+",polynomial_equation
+886,"Determine n, given that 63*n**3 - 183*n**2 - 270*n - 24 = 0.
+",polynomial_equation
+887,"Solve -3*q**3 + 174*q**2 - 2523*q = 0.
+",polynomial_equation
+888,"Suppose 10*t**3 - 124*t**2/5 - 352*t/5 + 192/5 = 0. What is t?
+",polynomial_equation
+889,"Let 3*i**3/5 + 111*i**2/5 - 12*i/5 - 444/5 = 0. Calculate i.
+",polynomial_equation
+890,"Factor -27*h**3/5 + 279*h**2/5 - 336*h/5 + 108/5.
+",polynomial_equation
+891,"Suppose 4*y**3 - 996*y**2 + 53856*y + 1045440 = 0. Calculate y.
+",polynomial_equation
+892,"Factor -3*i**5 + 18*i**4 - 27*i**3 + 12*i**2.
+",polynomial_equation
+893,"Determine n so that 2*n**2 - 38*n = 0.
+",polynomial_equation
+894,"Find u, given that u**3 + 35*u**2 + 127*u + 93 = 0.
+",polynomial_equation
+895,"Solve 655*m**3/6 + 3935*m**2/3 + 3950*m + 60 = 0.
+",polynomial_equation
+896,"What is o in -58*o**2/3 + 10*o/3 + 16 = 0?
+",polynomial_equation
+897,"Let -3*b**4/8 + 21*b**3/8 - 39*b**2/8 - 9*b/8 + 27/4 = 0. What is b?
+",polynomial_equation
+898,"Suppose 28*d**3 + 116*d**2 + 16*d = 0. What is d?
+",polynomial_equation
+899,"Factor y**2/2 + 255*y + 65025/2.
+",polynomial_equation
+900,"Find n such that -2*n**2 - 44*n = 0.
+",polynomial_equation
+901,"Factor s**2/2 - 17*s + 93/2.
+",polynomial_equation
+902,"Factor -u**2/5 - 5878*u/5 - 8637721/5.
+",polynomial_equation
+903,"Determine l, given that -40*l**5 + 874*l**4 + 2056*l**3 + 200*l**2 - 192*l = 0.
+",polynomial_equation
+904,"Solve r**4 + 7*r**3 - 57*r**2 - 455*r - 392 = 0.
+",polynomial_equation
+905,"Factor 5*z**3 - 20*z**2 + 5*z + 30.
+",polynomial_equation
+906,"Determine n, given that -2*n**5/3 - 28*n**4/3 - 110*n**3/3 - 28*n**2/3 + 472*n/3 + 560/3 = 0.
+",polynomial_equation
+907,"Factor 5*s**4 + 275*s**3 + 2970*s**2 - 24300*s - 27000.
+",polynomial_equation
+908,"Suppose -2*l**4/9 + 98*l**3/9 + 46*l**2 + 526*l/9 + 212/9 = 0. What is l?
+",polynomial_equation
+909,"Factor 2*g**3/3 + 44*g**2/3 - 2*g/3 - 44/3.
+",polynomial_equation
+910,"Factor -18*r**4 + 3120*r**3 - 134156*r**2 - 90480*r - 15138.
+",polynomial_equation
+911,"Suppose 10*x**5 + 5*x**4 - 170*x**3 + 275*x**2 - 20*x - 100 = 0. Calculate x.
+",polynomial_equation
+912,"Solve 2*p**5 - 40*p**4 + 256*p**3 - 512*p**2 = 0 for p.
+",polynomial_equation
+913,"Factor -k**2 - 471*k.
+",polynomial_equation
+914,"Let x**3/2 + 17*x**2 - 247*x/2 - 140 = 0. Calculate x.
+",polynomial_equation
+915,"Factor n**3/3 - 14*n**2/3.
+",polynomial_equation
+916,"Factor 2*c**3/7 - 92*c**2/7 + 342*c/7 - 36.
+",polynomial_equation
+917,"Let 2*y**4/11 + 12*y**3/11 - 2*y**2/11 - 12*y/11 = 0. Calculate y.
+",polynomial_equation
+918,"Solve 2*b**5/3 - 1568*b**4/3 + 316616*b**3/3 - 3650144*b**2/3 + 14402432*b/3 - 19071488/3 = 0 for b.
+",polynomial_equation
+919,"Determine i so that i**4 + 3*i**3 - 10*i**2 = 0.
+",polynomial_equation
+920,"Factor -57*q**2 - 2172*q - 228.
+",polynomial_equation
+921,"Find k such that -3*k**2 + 102*k/5 + 264/5 = 0.
+",polynomial_equation
+922,"Factor -2*j**3/7 - 50*j**2/7 - 286*j/7 - 34.
+",polynomial_equation
+923,"Solve j**2/3 + 8*j/3 - 209/3 = 0 for j.
+",polynomial_equation
+924,"Suppose -5*s**3/3 - 173*s**2/3 + 640*s/3 - 76 = 0. What is s?
+",polynomial_equation
+925,"Factor -r**3 - 6*r**2 - 9*r - 4.
+",polynomial_equation
+926,"Determine m, given that -2*m**4 + 14*m**3/3 + 2*m**2/3 - 14*m/3 + 4/3 = 0.
+",polynomial_equation
+927,"Determine g, given that -g**4/2 - 33*g**3/2 - 119*g**2/2 - 87*g/2 = 0.
+",polynomial_equation
+928,"Factor -5*a**2 - 25*a + 70.
+",polynomial_equation
+929,"Solve 63*h**4/8 - 879*h**3/8 + 771*h**2/8 + 123*h/8 - 39/4 = 0 for h.
+",polynomial_equation
+930,"Suppose c**2/4 - 5*c/4 + 1 = 0. Calculate c.
+",polynomial_equation
+931,"Factor k**2/5 + 28*k/5.
+",polynomial_equation
+932,"Suppose -7*v**5/5 - 47*v**4/5 - 84*v**3/5 - 28*v**2/5 + 16*v/5 = 0. Calculate v.
+",polynomial_equation
+933,"Find a such that 172*a**2 - 524*a + 24 = 0.
+",polynomial_equation
+934,"Factor -2*p**3/3 + 22*p**2/3 - 20*p/3.
+",polynomial_equation
+935,"What is r in 10*r**3 + 235*r**2 + 510*r - 315 = 0?
+",polynomial_equation
+936,"Factor -5*o**2 + 750*o - 8280.
+",polynomial_equation
+937,"Factor -6*q**3/5 - 522*q**2/5 - 1992*q/5.
+",polynomial_equation
+938,"Solve 4*r**2 + 23056*r + 33223696 = 0 for r.
+",polynomial_equation
+939,"Factor 12*x**3 - 15*x**2 - 141*x + 36.
+",polynomial_equation
+940,"Solve -2*o**3/5 + 858*o**2/5 - 2556*o/5 = 0.
+",polynomial_equation
+941,"Suppose -v**4 + 13*v**3 + 118*v**2 - 52*v - 456 = 0. Calculate v.
+",polynomial_equation
+942,"Factor -3*k**3 + 354*k**2 - 1380*k + 1368.
+",polynomial_equation
+943,"Let -x**2/5 - 38*x/5 + 43 = 0. What is x?
+",polynomial_equation
+944,"Factor -2*q**2/13 - 452*q/13 - 450/13.
+",polynomial_equation
+945,"Suppose l**2/3 - 44*l + 1452 = 0. What is l?
+",polynomial_equation
+946,"Suppose 2*a**3 - 218*a**2 + 430*a - 214 = 0. Calculate a.
+",polynomial_equation
+947,"Factor 8*t**2 + 60*t + 225/2.
+",polynomial_equation
+948,"Factor -2*w**3 + 26*w**2 + 508*w + 480.
+",polynomial_equation
+949,"Factor -35*k**2 + 27415*k - 7830.
+",polynomial_equation
+950,"Factor -6*n**4/5 - 116*n**3/5 - 38*n**2/5.
+",polynomial_equation
+951,"What is w in 3*w**3 - 3561*w**2 + 1058505*w - 1054947 = 0?
+",polynomial_equation
+952,"Find v, given that 12*v**2 - 585*v - 147 = 0.
+",polynomial_equation
+953,"Determine z so that 3*z**3 + 234*z**2/5 + 864*z/5 - 384/5 = 0.
+",polynomial_equation
